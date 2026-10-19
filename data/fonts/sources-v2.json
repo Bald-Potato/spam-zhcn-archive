@@ -1,0 +1,14 @@
+[
+  {
+    "file": "Body-ExtraBold.ttf",
+    "upstream": "https://github.com/google/fonts/tree/main/ofl/notosanssc",
+    "upstreamSha256": "a3041811a78c361b1de50f953c805e0244951c21c5bd412f7232ef0d899af0da",
+    "conversion": "fontTools 4.67.0 instantiateVariableFont wght=800; no subsetting",
+    "sha256": "6afef98936ff879e0d2e2f23f614738468b7e8ee0a5dc033d3b21a375f3be56c"
+  },
+  {
+    "file": "Title-KuaiLe.ttf",
+    "url": "https://raw.githubusercontent.com/google/fonts/a606d6f3181c62b792c8c1463d309c6a8abb8a12/ofl/zcoolkuaile/ZCOOLKuaiLe-Regular.ttf",
+    "sha256": "812a6fc1fe54b6d73a419245c32dfeba8aa33104d5be90d1cf6af082007cb71d"
+  }
+]

@@ -1,0 +1,4757 @@
+{
+  "schema": 1,
+  "entries": [
+    {
+      "key": "Keyword.Desc.echo",
+      "source": "Chance for the ability to remain available after use",
+      "sourceHash": "4ed9b655a84252b90b0ee82df5c4a13ef943741f170f6172ce72163a942212e1",
+      "sheet": "resources.assets-3040-KeywordDescriptions",
+      "text": "使用后，有一定概率保持该技能可用。",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Keyword.Desc.AOE",
+      "source": "Spreads damage or healing to cards adjacent to the target, according to the indicated percentage.",
+      "sourceHash": "5709a4a9afc830fc114d81f1e1e779ce54267b68ccc764ae0ffb13d6327a77fb",
+      "sheet": "resources.assets-3040-KeywordDescriptions",
+      "text": "按标示比例，将伤害或治疗扩散到目标相邻的卡牌。",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Keyword.Desc.bonus",
+      "source": "Additional damage not affected by elemental bonuses, but affected by Berserk and resistances",
+      "sourceHash": "d080cb877663803147c1307e9ea8639ef2972d14983bc2d2f3d6bc2a7cf2ab29",
+      "sheet": "resources.assets-3040-KeywordDescriptions",
+      "text": "不受元素加成影响的额外伤害，但仍受狂暴与抗性影响。",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Keyword.Title.echo",
+      "source": "Echo",
+      "sourceHash": "8335e4c92c40556ab31f1bc57faab0a2563d89f720a8e6740fee674ea79df3c9",
+      "sheet": "resources.assets-3040-KeywordDescriptions",
+      "text": "回响",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Keyword.Title.AOE",
+      "source": "Area damage",
+      "sourceHash": "e7b1faf3783e4cf797843ffb2c557fa98e33bd021c613da21e044c2d01f913ff",
+      "sheet": "resources.assets-3040-KeywordDescriptions",
+      "text": "范围伤害",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Keyword.Title.poison",
+      "source": "Poison",
+      "sourceHash": "d5a78b996fe640a3f9181d71da872b9dfb63bbad0d282edff0a12e4e32074b6e",
+      "sheet": "resources.assets-3040-KeywordDescriptions",
+      "text": "中毒",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Keyword.Title.provocation",
+      "source": "Taunt",
+      "sourceHash": "aa1c342daeb99a7dd8a63d75bed9ad127b763c6cd74891b0ce1a090898c7534e",
+      "sheet": "resources.assets-3040-KeywordDescriptions",
+      "text": "嘲讽",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Keyword.Title.bonus",
+      "source": "Bonus damage",
+      "sourceHash": "aaa8dd4c94d3fd2f02a195eba562cc843a18af410dd41758f9cd8ca1577044a1",
+      "sheet": "resources.assets-3040-KeywordDescriptions",
+      "text": "额外伤害",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Keyword.Title.stun",
+      "source": "Stun",
+      "sourceHash": "4b63b96ae5c589ab93aa1024699b1137f822d73f3f4d6cd2749bbf4fa9193440",
+      "sheet": "resources.assets-3040-KeywordDescriptions",
+      "text": "眩晕",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Keyword.Title.freeze",
+      "source": "Freeze",
+      "sourceHash": "509b1035c55fa2eb5475dd19d4066db6be98966c2cba7073a2cd5ca38768c017",
+      "sheet": "resources.assets-3040-KeywordDescriptions",
+      "text": "冻结",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Keyword.Title.eternity",
+      "source": "Eternity",
+      "sourceHash": "bfe90d38f340b338f135e0e30587e2281392408bdb39110a1d08810469ae08c7",
+      "sheet": "resources.assets-3040-KeywordDescriptions",
+      "text": "永恒",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Keyword.Title.temporality",
+      "source": "Temporality",
+      "sourceHash": "ea2c5cea729a331a134ac213af32797b1903c05488c4f9f63878cb14a6f57d94",
+      "sheet": "resources.assets-3040-KeywordDescriptions",
+      "text": "时限",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Keyword.Title.vanish",
+      "source": "Vanish",
+      "sourceHash": "cca4f8f0f3c732d2493471fa737a95ff0cab6eb1a2e6acf74b62ecabb0986b0b",
+      "sheet": "resources.assets-3040-KeywordDescriptions",
+      "text": "消失",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Keyword.Title.erosion",
+      "source": "Erosion",
+      "sourceHash": "d41111129d818b2e53798dfe5c54057645aec02c94bec863cf95062942eb8132",
+      "sheet": "resources.assets-3040-KeywordDescriptions",
+      "text": "侵蚀",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Keyword.Title.smoked",
+      "source": "Smoked",
+      "sourceHash": "e954dbd55cb738ca4f074ba49d3f0e4a058315e739582acd06ab974e594a49ea",
+      "sheet": "resources.assets-3040-KeywordDescriptions",
+      "text": "烟幕",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Keyword.Title.vampirism",
+      "source": "Vampirism",
+      "sourceHash": "0618f90bfcfc7683770b6b4669b864aa387d79f2faf84845883e0eef7e8fcee9",
+      "sheet": "resources.assets-3040-KeywordDescriptions",
+      "text": "吸血",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Keyword.Title.purge",
+      "source": "Purge",
+      "sourceHash": "17c60a21a9c25fc473780f26530b4e91506f4f5efdc61d14e01b5951750c8a0f",
+      "sheet": "resources.assets-3040-KeywordDescriptions",
+      "text": "净化",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Keyword.Desc.eternity",
+      "source": "Increases the target's cooldowns by 1",
+      "sourceHash": "ac3558e7e95e090f8e1b0f95997ace4459ec1342aa171fecc24e95ab51fea07d",
+      "sheet": "resources.assets-3040-KeywordDescriptions",
+      "text": "使目标的冷却增加 1。",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Keyword.Desc.temporality",
+      "source": "Decreases the target's cooldowns by 1",
+      "sourceHash": "65ff02035fca61766a6fbe0bd10bf8584500788486632ee6bc6391307b3832d5",
+      "sheet": "resources.assets-3040-KeywordDescriptions",
+      "text": "使目标的冷却减少 1。",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Keyword.Title.absorb",
+      "source": "Absorb",
+      "sourceHash": "171418c643055da90c1d2823941068bcc0341b8aca6305f23a18a23e1249607a",
+      "sheet": "resources.assets-3040-KeywordDescriptions",
+      "text": "吸收",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Keyword.Title.random",
+      "source": "Random",
+      "sourceHash": "67bc484430fe87babe3c35d2ba4827d029f1c7e415a92de44885a9c88536661f",
+      "sheet": "resources.assets-3040-KeywordDescriptions",
+      "text": "随机",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Keyword.Desc.random",
+      "source": "The target or effect is picked at random",
+      "sourceHash": "bb67f1eb9c3271fa74ca82c7fe757f3a436c9950ac69db619bc2636acd7e2920",
+      "sheet": "resources.assets-3040-KeywordDescriptions",
+      "text": "随机决定目标或效果。",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Keyword.Title.randomEnemies",
+      "source": "Random enemies",
+      "sourceHash": "70bb3860af2ed7d947932d713c19f975d5975c7edf7c60b8393d8170393c4e45",
+      "sheet": "resources.assets-3040-KeywordDescriptions",
+      "text": "随机敌方",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Keyword.Desc.randomEnemies",
+      "source": "Targets are picked at random among enemy cards",
+      "sourceHash": "ba84616527383845038ee630f30f27168580db23c019000ee03e1c04e9e1b722",
+      "sheet": "resources.assets-3040-KeywordDescriptions",
+      "text": "从敌方卡牌中随机选择目标。",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Keyword.Title.choice",
+      "source": "Choice",
+      "sourceHash": "efa0389ac6fce142eaa954880c31388c79313347d00430eeca0bf713cfd84570",
+      "sheet": "resources.assets-3040-KeywordDescriptions",
+      "text": "选择",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Keyword.Desc.choice",
+      "source": "The player chooses among several offered options",
+      "sourceHash": "f2eb8a3e24edd410a1df5ba22d690e945a269319fe674c178f294d1d02181c16",
+      "sheet": "resources.assets-3040-KeywordDescriptions",
+      "text": "玩家从给出的多个选项中作出选择。",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Keyword.Title.resistance",
+      "source": "Resistance",
+      "sourceHash": "c35070bce1f5544161f673d2ab7c57d1c00804d69fffb266173621c3718ce4e6",
+      "sheet": "resources.assets-3040-KeywordDescriptions",
+      "text": "抗性",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Keyword.Desc.resistance",
+      "source": "Percentage of damage reduced for each element",
+      "sourceHash": "bd34d4fc97047a5a204da54e39544a722ead1c686ca21f08dd5d8eadd5bef01e",
+      "sheet": "resources.assets-3040-KeywordDescriptions",
+      "text": "对应元素伤害被减免的百分比。",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Keyword.Title.critical",
+      "source": "Critical",
+      "sourceHash": "427dd2969bd140bec3c1bcc7983da982f4815938cd4510ad0b2bad48ac5b55f9",
+      "sheet": "resources.assets-3040-KeywordDescriptions",
+      "text": "暴击率",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Keyword.Desc.critical",
+      "source": "Chance for an ability's damage or healing to be critical",
+      "sourceHash": "ec7bb73c84d2cac0437af24fe2a285c93ace8b5a3abaf81738da6d3af9191d99",
+      "sheet": "resources.assets-3040-KeywordDescriptions",
+      "text": "技能伤害或治疗发生暴击的概率。",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Keyword.Title.criticalDamage",
+      "source": "Critical Power",
+      "sourceHash": "89bdfc39b7673d1ec1b430e60933023a3cb95db44dd0607bbabae4670579193e",
+      "sheet": "resources.assets-3040-KeywordDescriptions",
+      "text": "暴击倍率",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Keyword.Desc.criticalDamage",
+      "source": "Multiplier applied to critical damage and healing",
+      "sourceHash": "d0dd3b8bf27e1311d4ee652b2fd0fa2186132e33956806ccd85412f482ecc7db",
+      "sheet": "resources.assets-3040-KeywordDescriptions",
+      "text": "适用于暴击伤害与暴击治疗的倍率。",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Keyword.Title.accuracy",
+      "source": "Accuracy",
+      "sourceHash": "ac991dd3c2d928da95b77afb954db61a3246be27b683f30d1232dcee625ae376",
+      "sheet": "resources.assets-3040-KeywordDescriptions",
+      "text": "命中率",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Keyword.Title.singleUse",
+      "source": "Single use",
+      "sourceHash": "8e6211592b3d82db97d120cae695f86109143b882fd4775d795b01627dffb51e",
+      "sheet": "resources.assets-3040-KeywordDescriptions",
+      "text": "一次性",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Keyword.Title.cost",
+      "source": "Cost",
+      "sourceHash": "204a5eb2cd28bcfdf3be9f8c765948e9e831609e3c57048cdbd6b8a94cf49126",
+      "sheet": "resources.assets-3040-KeywordDescriptions",
+      "text": "消耗",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Keyword.Title.limitedUse",
+      "source": "Limited Use",
+      "sourceHash": "f7cc1bc13a04915210d627484e0f230eb7b5c3e215947678acab631a706b767b",
+      "sheet": "resources.assets-3040-KeywordDescriptions",
+      "text": "限次",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Keyword.Desc.limitedUse",
+      "source": "Uses remaining out of the allowed total",
+      "sourceHash": "0a352a1a9c3b1c971992d10eb04e003b7a471278dcb81c9ec53ed0f6b81e3e08",
+      "sheet": "resources.assets-3040-KeywordDescriptions",
+      "text": "剩余可用次数与允许使用的总次数。",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Card.PassifDesc.Phoenix",
+      "source": "When destroyed, this card returns to life with <value1>% of its max HP.\nSingle use",
+      "sourceHash": "f6ec2f3046504876e02bd9c9e093c7f1c2b3c6b1c8bd616d4a2f4d2f074d0d2b",
+      "sheet": "resources.assets-3041-CardAbilityDesc",
+      "text": "此卡牌被摧毁时，以其最大生命值的 <value1>% 复活。\n仅触发一次",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Card.Passif.Taunt",
+      "source": "Taunt",
+      "sourceHash": "aa1c342daeb99a7dd8a63d75bed9ad127b763c6cd74891b0ce1a090898c7534e",
+      "sheet": "resources.assets-3042-CardAbilityName",
+      "text": "嘲讽",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Card.Passif.Erosion",
+      "source": "Erosion",
+      "sourceHash": "d41111129d818b2e53798dfe5c54057645aec02c94bec863cf95062942eb8132",
+      "sheet": "resources.assets-3042-CardAbilityName",
+      "text": "侵蚀",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Card.Passif.Stun",
+      "source": "Stun",
+      "sourceHash": "4b63b96ae5c589ab93aa1024699b1137f822d73f3f4d6cd2749bbf4fa9193440",
+      "sheet": "resources.assets-3042-CardAbilityName",
+      "text": "眩晕",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Card.Passif.Frozen",
+      "source": "Freeze",
+      "sourceHash": "509b1035c55fa2eb5475dd19d4066db6be98966c2cba7073a2cd5ca38768c017",
+      "sheet": "resources.assets-3042-CardAbilityName",
+      "text": "冻结",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Card.Passif.Poison",
+      "source": "Poison",
+      "sourceHash": "d5a78b996fe640a3f9181d71da872b9dfb63bbad0d282edff0a12e4e32074b6e",
+      "sheet": "resources.assets-3042-CardAbilityName",
+      "text": "中毒",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Card.Passif.Eternity",
+      "source": "Eternity",
+      "sourceHash": "bfe90d38f340b338f135e0e30587e2281392408bdb39110a1d08810469ae08c7",
+      "sheet": "resources.assets-3042-CardAbilityName",
+      "text": "永恒",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Card.Passif.Temporality",
+      "source": "Temporality",
+      "sourceHash": "ea2c5cea729a331a134ac213af32797b1903c05488c4f9f63878cb14a6f57d94",
+      "sheet": "resources.assets-3042-CardAbilityName",
+      "text": "时限",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Card.Passif.Disparition",
+      "source": "Vanish",
+      "sourceHash": "cca4f8f0f3c732d2493471fa737a95ff0cab6eb1a2e6acf74b62ecabb0986b0b",
+      "sheet": "resources.assets-3042-CardAbilityName",
+      "text": "消失",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Card.Passif.Life Steal",
+      "source": "Vampirism",
+      "sourceHash": "0618f90bfcfc7683770b6b4669b864aa387d79f2faf84845883e0eef7e8fcee9",
+      "sheet": "resources.assets-3042-CardAbilityName",
+      "text": "吸血",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Card.Ability.Copie",
+      "source": "Copy",
+      "sourceHash": "e21f935f11d7e966dbbae78da9daa378fe8142a14e7c0cd7434183005faa6c5c",
+      "sheet": "resources.assets-3042-CardAbilityName",
+      "text": "复制",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Card.Effect.Random",
+      "source": "Random",
+      "sourceHash": "67bc484430fe87babe3c35d2ba4827d029f1c7e415a92de44885a9c88536661f",
+      "sheet": "resources.assets-3042-CardAbilityName",
+      "text": "随机",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Card.Effect.Cost",
+      "source": "Cost",
+      "sourceHash": "204a5eb2cd28bcfdf3be9f8c765948e9e831609e3c57048cdbd6b8a94cf49126",
+      "sheet": "resources.assets-3042-CardAbilityName",
+      "text": "费用",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Card.Effect.Precision",
+      "source": "Accuracy",
+      "sourceHash": "ac991dd3c2d928da95b77afb954db61a3246be27b683f30d1232dcee625ae376",
+      "sheet": "resources.assets-3042-CardAbilityName",
+      "text": "精准",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Card.Effect.Critical",
+      "source": "Critical",
+      "sourceHash": "427dd2969bd140bec3c1bcc7983da982f4815938cd4510ad0b2bad48ac5b55f9",
+      "sheet": "resources.assets-3042-CardAbilityName",
+      "text": "暴击",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Card.Effect.CriticalDamage",
+      "source": "Critical Power",
+      "sourceHash": "89bdfc39b7673d1ec1b430e60933023a3cb95db44dd0607bbabae4670579193e",
+      "sheet": "resources.assets-3042-CardAbilityName",
+      "text": "暴击强度",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "TutoDesc.Keria.tooltip.res",
+      "source": "Resistances",
+      "sourceHash": "f953773193381d8e6300646f2c36dbd6d36e81784d7c77f6158f2e9e28cc3ee3",
+      "sheet": "resources.assets-3043-TutoDesc",
+      "text": "抗性",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "TutoDesc.Keria.tuto2.passif",
+      "source": "Passive",
+      "sourceHash": "78c04330e9895ac818e3c1609e8a762674ca041a392c0cf459df04257522facd",
+      "sheet": "resources.assets-3043-TutoDesc",
+      "text": "被动",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "TutoDesc.Sujet042.StillThere.Later",
+      "source": "Later",
+      "sourceHash": "73b6e48a1b552d112502d37a7b7870436efc5ea1de0bca58ccf12d6ae15d3a0c",
+      "sheet": "resources.assets-3043-TutoDesc",
+      "text": "稍后",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "CardStyle.Name.fullart",
+      "source": "FA",
+      "sourceHash": "9789dae9e8de2d0c79d305fafc45092e3b0b1becaa23ee481aa2bed5c64d4981",
+      "sheet": "resources.assets-3044-Card_Style",
+      "text": "全画幅",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "CardStyle.Name.alternativeart_maitresse_des_teintes",
+      "source": "AAA",
+      "sourceHash": "cb1ad2119d8fafb69566510ee712661f9f14b83385006ef92aec47f523a38358",
+      "sheet": "resources.assets-3044-Card_Style",
+      "text": "动态异画",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "CardStyle.Name.alternativeart_aristocrate_nebulaire",
+      "source": "AA",
+      "sourceHash": "58bb119c35513a451d24dc20ef0e9031ec85b35bfc919d263e7e5d9868909cb5",
+      "sheet": "resources.assets-3044-Card_Style",
+      "text": "异画",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "CardStyle.Name.alternativeart_bleu_mange_cailloux",
+      "source": "AA",
+      "sourceHash": "58bb119c35513a451d24dc20ef0e9031ec85b35bfc919d263e7e5d9868909cb5",
+      "sheet": "resources.assets-3044-Card_Style",
+      "text": "异画",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "CardStyle.Name.alternativeart_ephial",
+      "source": "AA",
+      "sourceHash": "58bb119c35513a451d24dc20ef0e9031ec85b35bfc919d263e7e5d9868909cb5",
+      "sheet": "resources.assets-3044-Card_Style",
+      "text": "异画",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "CardStyle.Name.alternativeart_keria",
+      "source": "AA",
+      "sourceHash": "58bb119c35513a451d24dc20ef0e9031ec85b35bfc919d263e7e5d9868909cb5",
+      "sheet": "resources.assets-3044-Card_Style",
+      "text": "异画",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "CardStyle.Name.alternativeart_roi_des_flammes_ardentes",
+      "source": "AA",
+      "sourceHash": "58bb119c35513a451d24dc20ef0e9031ec85b35bfc919d263e7e5d9868909cb5",
+      "sheet": "resources.assets-3044-Card_Style",
+      "text": "异画",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "CardStyle.Name.alternativeart_tisseuse_de_mots",
+      "source": "AA",
+      "sourceHash": "58bb119c35513a451d24dc20ef0e9031ec85b35bfc919d263e7e5d9868909cb5",
+      "sheet": "resources.assets-3044-Card_Style",
+      "text": "异画",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "CardStyle.Name.alternativeart_vivy",
+      "source": "AA",
+      "sourceHash": "58bb119c35513a451d24dc20ef0e9031ec85b35bfc919d263e7e5d9868909cb5",
+      "sheet": "resources.assets-3044-Card_Style",
+      "text": "异画",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Rarity.Name.common",
+      "source": "Common",
+      "sourceHash": "309955e00850b8afeb148450c7208585a85f8b652d5c625c777726f44837f69c",
+      "sheet": "resources.assets-3051-Rarity",
+      "text": "普通",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Rarity.Name.rare",
+      "source": "Rare",
+      "sourceHash": "291d2a97565f2e9c3316bc5251922883bf205e277124f408875d30ffd6a5d92f",
+      "sheet": "resources.assets-3051-Rarity",
+      "text": "稀有",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Rarity.Name.epic",
+      "source": "Epic",
+      "sourceHash": "a93d389804ee0490f1903ab26500a66a695ce65fa7ecb074d79771857d074355",
+      "sheet": "resources.assets-3051-Rarity",
+      "text": "史诗",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Rarity.Name.legendary",
+      "source": "Legendary",
+      "sourceHash": "c80b041f5d1d11574f40bd79c2ea8f64cfc47a49c6b8846abed3c294931a7946",
+      "sheet": "resources.assets-3051-Rarity",
+      "text": "传说",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Banner.Earth",
+      "source": "Earth",
+      "sourceHash": "b7c9b5ccd3e3ec741ecfa5864b577f5dab1d987bfd3caa4815f1b3f8354a5f16",
+      "sheet": "resources.assets-3053-Banner",
+      "text": "土",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Banner.Fire",
+      "source": "Fire",
+      "sourceHash": "c141faa80e43a11909f5736d1e767f12e1468aa06dadd446081746934e875fc3",
+      "sheet": "resources.assets-3053-Banner",
+      "text": "火",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Banner.Light",
+      "source": "Light",
+      "sourceHash": "dbcd5e7bb7a0f538810de44c3efbd813037ee3fa358747bb71fa58e157af45f7",
+      "sheet": "resources.assets-3053-Banner",
+      "text": "光",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Banner.Nature",
+      "source": "Nature",
+      "sourceHash": "c71ce8ccf3b4493267a168d7315294085b489fb8ccbf15b4cc2639cacd5c81a4",
+      "sheet": "resources.assets-3053-Banner",
+      "text": "自然",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Banner.Shadow",
+      "source": "Shadow",
+      "sourceHash": "4c764cb6248ef9337fc1c8769d4b74fc1d4c1fff6a9e8d00ca6753a560b3e74b",
+      "sheet": "resources.assets-3053-Banner",
+      "text": "暗",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Banner.Water",
+      "source": "Water",
+      "sourceHash": "7ca7dea906800f87091b819132ecf2aa2b7ea14c9841fa18b9db121d3bbe82dc",
+      "sheet": "resources.assets-3053-Banner",
+      "text": "水",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Menu.Loggin.Username",
+      "source": "Username",
+      "sourceHash": "e3b89e9d33f88e523083d8b4436adcc3726c89e97fd3179a2e102d765d1b16ed",
+      "sheet": "resources.assets-3056-Menu",
+      "text": "用户名",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Menu.Loggin.Password",
+      "source": "Password",
+      "sourceHash": "e7cf3ef4f17c3999a94f2c6f612e8a888e5b1026878e4e19398b23bd38ec221a",
+      "sheet": "resources.assets-3056-Menu",
+      "text": "密码",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Menu.Loader.Cancel",
+      "source": "Cancel",
+      "sourceHash": "19766ed6ccb2f4a32778eed80d1928d2c87a18d7c275ccb163ec6709d3eb2e27",
+      "sheet": "resources.assets-3056-Menu",
+      "text": "取消",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Menu.Collection.Owned",
+      "source": "Owned",
+      "sourceHash": "17b760c41cd2093315bba1008eaae9c4c05e3aa0fbbcf7477abfb775e62d6c5c",
+      "sheet": "resources.assets-3056-Menu",
+      "text": "已拥有",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Menu.Button.Resume",
+      "source": "Resume",
+      "sourceHash": "d640c7421da066618a39daf4266da5f61f66a9b1afcd626481b831a17064965d",
+      "sheet": "resources.assets-3056-Menu",
+      "text": "继续",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Menu.UI.Level",
+      "source": "Level",
+      "sourceHash": "1709305c9fa966d14f56f0da3c3614bbc10adcf53d72f90341bb96d24afcfca3",
+      "sheet": "resources.assets-3056-Menu",
+      "text": "等级",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Menu.UI.AddFriend",
+      "source": "Add Friend",
+      "sourceHash": "0967ca7c2b0d21c31e6f35e6d1d3c67e0b23e4c73ea8d81448303c64c6097e06",
+      "sheet": "resources.assets-3056-Menu",
+      "text": "添加好友",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Menu.Leaderboard.Rank",
+      "source": "Rank",
+      "sourceHash": "a4130d7d2c3a137f362d28ba21eedd525b7e42e7551c3e62817b048c9a0bd425",
+      "sheet": "resources.assets-3056-Menu",
+      "text": "段位",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Menu.Leaderboard.Winrate",
+      "source": "Winrate",
+      "sourceHash": "d76dc4660f3d6dddf79faf8ee75ef9101ced00797711281a22f9331c46b93deb",
+      "sheet": "resources.assets-3056-Menu",
+      "text": "胜率",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Menu.Collection.Filter",
+      "source": "Filters",
+      "sourceHash": "546ebb8eb993ea561029d9febd84c363bdb09010bb2cb915a8287762b76b9a64",
+      "sheet": "resources.assets-3056-Menu",
+      "text": "筛选",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Menu.UI.Validate",
+      "source": "Confirm",
+      "sourceHash": "eebdd24a77d9ad32222660c07777163bf5f6732df2b172351f3f8d5783e4f529",
+      "sheet": "resources.assets-3056-Menu",
+      "text": "确认",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Menu.Pack.Title.EpicBooster",
+      "source": "Epic",
+      "sourceHash": "a93d389804ee0490f1903ab26500a66a695ce65fa7ecb074d79771857d074355",
+      "sheet": "resources.assets-3056-Menu",
+      "text": "史诗",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Menu.Pack.Title.RareBooster",
+      "source": "Rare",
+      "sourceHash": "291d2a97565f2e9c3316bc5251922883bf205e277124f408875d30ffd6a5d92f",
+      "sheet": "resources.assets-3056-Menu",
+      "text": "稀有",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Talent.Name.TErosion",
+      "source": "Erosion",
+      "sourceHash": "d41111129d818b2e53798dfe5c54057645aec02c94bec863cf95062942eb8132",
+      "sheet": "resources.assets-3058-Talent",
+      "text": "侵蚀",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Talent.Name.TPoison_C",
+      "source": "Poison",
+      "sourceHash": "d5a78b996fe640a3f9181d71da872b9dfb63bbad0d282edff0a12e4e32074b6e",
+      "sheet": "resources.assets-3058-Talent",
+      "text": "中毒",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Talent.Name.Critique",
+      "source": "Critical",
+      "sourceHash": "427dd2969bd140bec3c1bcc7983da982f4815938cd4510ad0b2bad48ac5b55f9",
+      "sheet": "resources.assets-3058-Talent",
+      "text": "暴击",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Talent.Name.NoTalent",
+      "source": "Talentless",
+      "sourceHash": "3e8b9e762ccf7bd4bcbf276307db248e273de8fc048bdf71c4299c6531e2d03b",
+      "sheet": "resources.assets-3058-Talent",
+      "text": "无天赋",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Talent.Description.NoTalent",
+      "source": "No Talent",
+      "sourceHash": "3a62812110e70d2a1358a13538161985dd977c3a692de1af567c91609b056109",
+      "sheet": "resources.assets-3058-Talent",
+      "text": "无天赋",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Avatar.Name.shadow",
+      "source": "Shadow",
+      "sourceHash": "4c764cb6248ef9337fc1c8769d4b74fc1d4c1fff6a9e8d00ca6753a560b3e74b",
+      "sheet": "resources.assets-3059-Avatar",
+      "text": "暗",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Element.Name.earth",
+      "source": "Earth",
+      "sourceHash": "b7c9b5ccd3e3ec741ecfa5864b577f5dab1d987bfd3caa4815f1b3f8354a5f16",
+      "sheet": "resources.assets-3063-Element",
+      "text": "土",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Element.Name.fire",
+      "source": "Fire",
+      "sourceHash": "c141faa80e43a11909f5736d1e767f12e1468aa06dadd446081746934e875fc3",
+      "sheet": "resources.assets-3063-Element",
+      "text": "火",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Element.Name.light",
+      "source": "Light",
+      "sourceHash": "dbcd5e7bb7a0f538810de44c3efbd813037ee3fa358747bb71fa58e157af45f7",
+      "sheet": "resources.assets-3063-Element",
+      "text": "光",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Element.Name.nature",
+      "source": "Nature",
+      "sourceHash": "c71ce8ccf3b4493267a168d7315294085b489fb8ccbf15b4cc2639cacd5c81a4",
+      "sheet": "resources.assets-3063-Element",
+      "text": "自然",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Element.Name.shadow",
+      "source": "Shadow",
+      "sourceHash": "4c764cb6248ef9337fc1c8769d4b74fc1d4c1fff6a9e8d00ca6753a560b3e74b",
+      "sheet": "resources.assets-3063-Element",
+      "text": "暗",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Element.Name.water",
+      "source": "Water",
+      "sourceHash": "7ca7dea906800f87091b819132ecf2aa2b7ea14c9841fa18b9db121d3bbe82dc",
+      "sheet": "resources.assets-3063-Element",
+      "text": "水",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Menu.HeaderButton.Profile",
+      "source": "Profile",
+      "sourceHash": "d696a35bdd1883da07a8d6c41bb7a3153381b23aa197629ee273479a6eaa5a9c",
+      "sheet": "resources.assets-3065-Menu_V2",
+      "text": "个人资料",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Menu.HeaderButton.Statistics",
+      "source": "Statistics",
+      "sourceHash": "a656107e99c71dea1ba101ea816e3886370b68ca9f9ac8e5b2d79c6ffddd70a1",
+      "sheet": "resources.assets-3065-Menu_V2",
+      "text": "统计",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Menu.HeaderButton.Collection",
+      "source": "Collection",
+      "sourceHash": "7b790708ff1b171315a152018f3712e8c71c82f4f9000635f77a1336c34f1893",
+      "sheet": "resources.assets-3065-Menu_V2",
+      "text": "收藏",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Menu.HeaderButton.Play",
+      "source": "Play",
+      "sourceHash": "436e61016e26fcb773b9725745cbbf0afe7f001ea26041a814a7712c2925c442",
+      "sheet": "resources.assets-3065-Menu_V2",
+      "text": "开始对战",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Menu.HeaderButton.Tutorial",
+      "source": "Tutorial",
+      "sourceHash": "c26982b1425da26a9637dd69da684a036c8b67a1ddf2c3d09b915a96e4b58037",
+      "sheet": "resources.assets-3065-Menu_V2",
+      "text": "教程",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Menu.HeaderButton.Missions",
+      "source": "Missions",
+      "sourceHash": "93ffb8ce98c75447c13e7fb1f2028e7edb262f14d62531fd3315a2cf4adb3e7f",
+      "sheet": "resources.assets-3065-Menu_V2",
+      "text": "任务",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Menu.HeaderButton.Shop",
+      "source": "Shop",
+      "sourceHash": "d00aae6b7fbf77a4566d8df36805d7ae973894da9f533ec96516b31e028b71eb",
+      "sheet": "resources.assets-3065-Menu_V2",
+      "text": "商店",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Menu.HeaderButton.Cards",
+      "source": "Cards",
+      "sourceHash": "a52fcbbc33644d315e787216b2237fa285c1811d68085140430e74f48f4cae57",
+      "sheet": "resources.assets-3065-Menu_V2",
+      "text": "卡牌",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Menu.Button.Choose",
+      "source": "Choose",
+      "sourceHash": "c7f937836f5d82d53bc507752075f87e25009ec11bc9fd4e282f0b645e47af7c",
+      "sheet": "resources.assets-3065-Menu_V2",
+      "text": "选择",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Menu.Button.Delete",
+      "source": "Delete",
+      "sourceHash": "e2d0a54968ead24efc0dffa6ac78fc606dceec34a0f586177a74a54cc2272cf8",
+      "sheet": "resources.assets-3065-Menu_V2",
+      "text": "删除",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Menu.Button.SelectCard",
+      "source": "Select",
+      "sourceHash": "2a78025de6aae5e7ff88e5a951bb3a78ddd67388913529cf9e2dd9653e62b02d",
+      "sheet": "resources.assets-3065-Menu_V2",
+      "text": "选择",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Menu.Button.SelectedCard",
+      "source": "Selected",
+      "sourceHash": "57fd7a0cf33f2666eede69e44f8857159653f2f28e4fd7482a5e16d4af628d2a",
+      "sheet": "resources.assets-3065-Menu_V2",
+      "text": "已选择",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Menu.Button.Rename",
+      "source": "Rename",
+      "sourceHash": "3064d79a295cefe4b384b8fe5cb29fd6b06d7eb1ad94b8895f4148039d06b330",
+      "sheet": "resources.assets-3065-Menu_V2",
+      "text": "重命名",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Menu.Button.BackToMenu",
+      "source": "Back to Menu",
+      "sourceHash": "754dcd4b8ce65ea08a54459eca495046a889863eca03f60e48023937a9b0275b",
+      "sheet": "resources.assets-3065-Menu_V2",
+      "text": "返回菜单",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Menu.WindowTitle.Effects",
+      "source": "Effects",
+      "sourceHash": "358511c8c09805c9c10b1ba11157ed0c08ced8599d59e27e16fa226bdc32d63e",
+      "sheet": "resources.assets-3065-Menu_V2",
+      "text": "效果",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Menu.WindowTitle.Decks",
+      "source": "Decks",
+      "sourceHash": "3e9aa4f07223251c3a2227837f7d3dabdaa1f6011429515e1d1c8c7bd4c374c0",
+      "sheet": "resources.assets-3065-Menu_V2",
+      "text": "牌组",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Menu.Profile.Collection",
+      "source": "Collection",
+      "sourceHash": "7b790708ff1b171315a152018f3712e8c71c82f4f9000635f77a1336c34f1893",
+      "sheet": "resources.assets-3065-Menu_V2",
+      "text": "收藏",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Menu.Profile.GamePlayed",
+      "source": "Games played",
+      "sourceHash": "6b28c95b81e18d1f332f6afa7fb7705964dbd15972769270006da7e74fdbf1e4",
+      "sheet": "resources.assets-3065-Menu_V2",
+      "text": "对战场次",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Menu.Modal.BugReportType.Connection",
+      "source": "Connection",
+      "sourceHash": "639a40e82b9a96f0cbeed5f006cf5634c8d1b990b3c83753c00a910fc268d2a6",
+      "sheet": "resources.assets-3065-Menu_V2",
+      "text": "连接",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Menu.Placeholder.Search",
+      "source": "Search...",
+      "sourceHash": "7f55382219f0202c1b4f56deb099e2fedcec87ee73fe2edb2105df5447323bc6",
+      "sheet": "resources.assets-3065-Menu_V2",
+      "text": "搜索…",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Menu.Button.Send",
+      "source": "Send",
+      "sourceHash": "f6f4688ff23d50c67053963c251fa0ce64a925cf283537cf066b1f362cb9b778",
+      "sheet": "resources.assets-3065-Menu_V2",
+      "text": "发送",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Menu.Button.QuitGame",
+      "source": "Quit Game",
+      "sourceHash": "35b5cf54cb3fdcaedb4668e7a49b3fe529e2d1a87a9e21e3d1203286c60108ca",
+      "sheet": "resources.assets-3065-Menu_V2",
+      "text": "退出游戏",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Menu.Button.CGU",
+      "source": "Legal Terms",
+      "sourceHash": "88ebf276113a5a7f2380fc2ca37611320cc59c5f09ac3f7baed835342f876568",
+      "sheet": "resources.assets-3065-Menu_V2",
+      "text": "使用条款",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Menu.Button.Credits",
+      "source": "Credits",
+      "sourceHash": "2a6b24ad287220345e96eb8021fe29d42b0785766c8df658827e7251da2d36dc",
+      "sheet": "resources.assets-3065-Menu_V2",
+      "text": "制作人员",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Menu.Button.JoinUs",
+      "source": "Join Us!",
+      "sourceHash": "f95aee5cb706bb2f7c1936bd03aea7217d6140cada3c984d72c072cae6fde5b7",
+      "sheet": "resources.assets-3065-Menu_V2",
+      "text": "加入社区！",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Menu.Button.ReportBug",
+      "source": "Report a Bug",
+      "sourceHash": "7c29386e24ebe7df2c33d63991e0098f24ab1d4334432efe5dabe6b3d92ff93e",
+      "sheet": "resources.assets-3065-Menu_V2",
+      "text": "报告问题",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Menu.Button.GameSettings",
+      "source": "Game Settings",
+      "sourceHash": "3c530d00e240efe25b082fb523ed7146c21002b21f86084ddb33bd8d2617ffa1",
+      "sheet": "resources.assets-3065-Menu_V2",
+      "text": "游戏设置",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Menu.WindowTitle.Leaderboard",
+      "source": "Leaderboard",
+      "sourceHash": "31b471215872634299bc844f90c0493a24f6db1f00dca395175da335c4c0ca1d",
+      "sheet": "resources.assets-3065-Menu_V2",
+      "text": "排行榜",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Card.Rarity.Common",
+      "source": "Common",
+      "sourceHash": "309955e00850b8afeb148450c7208585a85f8b652d5c625c777726f44837f69c",
+      "sheet": "resources.assets-3065-Menu_V2",
+      "text": "普通",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Card.Rarity.Rare",
+      "source": "Rare",
+      "sourceHash": "291d2a97565f2e9c3316bc5251922883bf205e277124f408875d30ffd6a5d92f",
+      "sheet": "resources.assets-3065-Menu_V2",
+      "text": "稀有",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Card.Rarity.Epic",
+      "source": "Epic",
+      "sourceHash": "a93d389804ee0490f1903ab26500a66a695ce65fa7ecb074d79771857d074355",
+      "sheet": "resources.assets-3065-Menu_V2",
+      "text": "史诗",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Card.Rarity.Legendary",
+      "source": "Legendary",
+      "sourceHash": "c80b041f5d1d11574f40bd79c2ea8f64cfc47a49c6b8846abed3c294931a7946",
+      "sheet": "resources.assets-3065-Menu_V2",
+      "text": "传说",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Menu.Info.OrbOpening",
+      "source": "<color=white><size=30px><align=\"center\">Rarity</align></size></color>\n<color=#8E8B8D><i>Common</i></color><color=white> = 77%</color>\n<color=#26E0FF><i>Rare</i></color><color=white> = 16%</color>\n<color=#9757FF><i>Epic</i></color><color=white> = 5,2%</color>\n<color=#F1DF5E><i>Legendary</i></color><color=white> = 1,8%</color>\n\n<color=white><size=30px><align=\"center\">Type</align></size></color>\n<i>Standard</i><color=white> = 92,6%</color>\n<i>Reverse</i><color=white> = 5,2%</color>\n<i>Foil</i><color=white> = 1,8%</color>\n<i>Full art</i><color=white> = 0,4%</color>",
+      "sourceHash": "0e36225ee4d4c5bebecd737b60e8dd8f94bd18149a3260d03044d9b55eb92550",
+      "sheet": "resources.assets-3065-Menu_V2",
+      "text": "<color=white><size=30px><align=\"center\">稀有度</align></size></color>\n<color=#8E8B8D><i>普通</i></color><color=white> = 77%</color>\n<color=#26E0FF><i>稀有</i></color><color=white> = 16%</color>\n<color=#9757FF><i>史诗</i></color><color=white> = 5,2%</color>\n<color=#F1DF5E><i>传说</i></color><color=white> = 1,8%</color>\n\n<color=white><size=30px><align=\"center\">外观类型</align></size></color>\n<i>标准</i><color=white> = 92,6%</color>\n<i>反色</i><color=white> = 5,2%</color>\n<i>闪卡</i><color=white> = 1,8%</color>\n<i>全画幅</i><color=white> = 0,4%</color>",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Menu.Button.Play",
+      "source": "Play",
+      "sourceHash": "436e61016e26fcb773b9725745cbbf0afe7f001ea26041a814a7712c2925c442",
+      "sheet": "resources.assets-3065-Menu_V2",
+      "text": "开始对战",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Menu.Button.AcceptMatch",
+      "source": "Accept the match",
+      "sourceHash": "e71046e0730a1ea9d4f9461241ae2cbf44f74d0d535486e3455f4a6a10a6c4f0",
+      "sheet": "resources.assets-3065-Menu_V2",
+      "text": "接受对战",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Menu.info.WaitingOpponent",
+      "source": "Waiting for your opponent...",
+      "sourceHash": "a7059a0e9f5cfef21a032a694e9345081912e7877f789666d09bd4f4a708da29",
+      "sheet": "resources.assets-3065-Menu_V2",
+      "text": "正在等待对手…",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Menu.WindowTitle.Friend",
+      "source": "Friends",
+      "sourceHash": "bd104d1b98d032274986497eeb7997c44a1d674b29140e43cd525d33468ecb6e",
+      "sheet": "resources.assets-3065-Menu_V2",
+      "text": "好友",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Menu.Info.MyCode",
+      "source": "My code",
+      "sourceHash": "b441c5e3812a78c11210de870c2cd549c625704dcf062230943a743d8a11aca7",
+      "sheet": "resources.assets-3065-Menu_V2",
+      "text": "我的好友码",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Menu.Button.Challenge",
+      "source": "Challenge",
+      "sourceHash": "27cf1792f7bb4da955117bb4a15cb33f4e4705984cacfac9055a2884b061e4e1",
+      "sheet": "resources.assets-3065-Menu_V2",
+      "text": "挑战",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Menu.Info.MatchFounded",
+      "source": "Match found!",
+      "sourceHash": "93c4b65be47bee7b2025fcf7f6c9c8926662c194538fd0589d409c8c5f85d8cb",
+      "sheet": "resources.assets-3065-Menu_V2",
+      "text": "找到对战！",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Menu.Button.Spectate",
+      "source": "Spectate",
+      "sourceHash": "f56e0a1e1ec3e3a08b4533f27fb7ac708218e20cdc73f4ddaa5f1d9cfdc252e5",
+      "sheet": "resources.assets-3065-Menu_V2",
+      "text": "观战",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Choice.Cancel",
+      "source": "Cancel",
+      "sourceHash": "19766ed6ccb2f4a32778eed80d1928d2c87a18d7c275ccb163ec6709d3eb2e27",
+      "sheet": "resources.assets-3068-Label",
+      "text": "取消",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Choice.Title",
+      "source": "Choice {0}",
+      "sourceHash": "488348872fd0097024908e52c48a2ad54973896227c25262c6aa83070052cc34",
+      "sheet": "resources.assets-3068-Label",
+      "text": "选择 {0}",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.EndTurn",
+      "source": "End turn",
+      "sourceHash": "dacb1c83f36c986b5cb7c3c38c91038914d530bab866c87c94b4c72de158e9e1",
+      "sheet": "resources.assets-3068-Label",
+      "text": "结束回合",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.OppTurn",
+      "source": "Enemy's Turn",
+      "sourceHash": "aa0073c06e364b771c779dde5ced51cd5fe2e709db67068fb2ac4f59f313aa00",
+      "sheet": "resources.assets-3068-Label",
+      "text": "对手的回合",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.OppInShop",
+      "source": "Shop",
+      "sourceHash": "d00aae6b7fbf77a4566d8df36805d7ae973894da9f533ec96516b31e028b71eb",
+      "sheet": "resources.assets-3068-Label",
+      "text": "商店",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Loading.DidYouKnow",
+      "source": "Did You Know?",
+      "sourceHash": "aff534b9dd3af53156be1e13be19f8551aa0eb9da68c230d20b485287a1c9273",
+      "sheet": "resources.assets-3068-Label",
+      "text": "你知道吗？",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Loading.Step.Connection",
+      "source": "Connection",
+      "sourceHash": "639a40e82b9a96f0cbeed5f006cf5634c8d1b990b3c83753c00a910fc268d2a6",
+      "sheet": "resources.assets-3068-Label",
+      "text": "连接",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Loading.Step.Opponent",
+      "source": "Opponent",
+      "sourceHash": "c0886e50d42e64069e7adc52b250380dfeb63db2bea33692470d85135cf70df2",
+      "sheet": "resources.assets-3068-Label",
+      "text": "对手",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Loading.Status.Connection",
+      "source": "Connecting to the game server…",
+      "sourceHash": "6350a32d48f5da784197cdab01d2bed36b51be747a52a38c7dc18b30d3d818f7",
+      "sheet": "resources.assets-3068-Label",
+      "text": "正在连接游戏服务器…",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Loading.Status.Game",
+      "source": "Joining the game…",
+      "sourceHash": "4c5f894adee22c70f0def88e61e31807c2ad2431942406b1ac36561f6908f624",
+      "sheet": "resources.assets-3068-Label",
+      "text": "正在进入对战…",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Loading.Status.Opponent",
+      "source": "Waiting for {0}…",
+      "sourceHash": "04f0b31572bf23ff753fec2ca6d1979f470b43a645ea0a2d7995e9d908cdd63b",
+      "sheet": "resources.assets-3068-Label",
+      "text": "正在等待 {0}…",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Loading.Status.Board",
+      "source": "Setting up the board…",
+      "sourceHash": "26ff3577280fe61254de408563dcdc0326b532d85daef2263088451e6d4f13b5",
+      "sheet": "resources.assets-3068-Label",
+      "text": "正在准备战场…",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Loading.Slow",
+      "source": "Taking longer than expected…",
+      "sourceHash": "7404372b390dae5775859fb926c1aacfd64118f068ec9fda64d36ccf14f625be",
+      "sheet": "resources.assets-3068-Label",
+      "text": "等待时间较长…",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.YourTurn",
+      "source": "Your turn",
+      "sourceHash": "f2d1457382e5d95b7dce2e9f348cec539c38b08428e6ebd659a62e694cb4096f",
+      "sheet": "resources.assets-3068-Label",
+      "text": "你的回合",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.NextTurn",
+      "source": "Next turn",
+      "sourceHash": "cc4a26a3720762b311c459c1d55fe0bede4825db768429afa1bf4e65fc3abd9b",
+      "sheet": "resources.assets-3068-Label",
+      "text": "下一回合",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Resistance",
+      "source": "Resistance",
+      "sourceHash": "c35070bce1f5544161f673d2ab7c57d1c00804d69fffb266173621c3718ce4e6",
+      "sheet": "resources.assets-3068-Label",
+      "text": "抗性",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Resistances",
+      "source": "Resistances",
+      "sourceHash": "f953773193381d8e6300646f2c36dbd6d36e81784d7c77f6158f2e9e28cc3ee3",
+      "sheet": "resources.assets-3068-Label",
+      "text": "抗性",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Pause.Resume",
+      "source": "Resume",
+      "sourceHash": "d640c7421da066618a39daf4266da5f61f66a9b1afcd626481b831a17064965d",
+      "sheet": "resources.assets-3068-Label",
+      "text": "继续",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Pause.Settings",
+      "source": "Settings",
+      "sourceHash": "74a883a037bc227f91891ab654a753d3a99f31ab06ae5b5d2b6e594a692b41f8",
+      "sheet": "resources.assets-3068-Label",
+      "text": "设置",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Pause.Surrend",
+      "source": "Surrender",
+      "sourceHash": "a406dbe32ed06e4926339e39fcc10bcf5a4d4cc9f87c64e2a2baf0f5cd8e6f3c",
+      "sheet": "resources.assets-3068-Label",
+      "text": "投降",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.ToxShop.Title",
+      "source": "Buy a Tox",
+      "sourceHash": "53294a1869ff39f585cdf47bfacba51287fbcd4348d29a29879d18fe8c90e1bf",
+      "sheet": "resources.assets-3068-Label",
+      "text": "购买 Tox",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.ToxShop.Skip",
+      "source": "Skip",
+      "sourceHash": "28d03596d24eeb4eab2d6fe21ca1cb95be7cb1fa6f92933db05e2cc4f4cdfa06",
+      "sheet": "resources.assets-3068-Label",
+      "text": "跳过",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.ToxShop.Reroll",
+      "source": "Reroll",
+      "sourceHash": "18363dbee31e6a38db3c8df982ef6fe7c703be54ee98f1a5a6109e81ab2fef8f",
+      "sheet": "resources.assets-3068-Label",
+      "text": "刷新",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.ToxShop.HideShop",
+      "source": "Hide Shop",
+      "sourceHash": "e7e5f874d7c2189541cc4fac95431825656fcadabaf2ad93061b371d679db001",
+      "sheet": "resources.assets-3068-Label",
+      "text": "隐藏商店",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.ToxShop.ShowShop",
+      "source": "Show Shop",
+      "sourceHash": "63d119d646935c37c30e5fa6a5497bf1183a6ad4e886e04096ac84c10396f4d2",
+      "sheet": "resources.assets-3068-Label",
+      "text": "显示商店",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.ToxShop.Ban",
+      "source": "Ban",
+      "sourceHash": "520ed297c96f7b1a393418e5406ee8b0b2606c23a761e6ffbee4947ad68d22c6",
+      "sheet": "resources.assets-3068-Label",
+      "text": "禁用",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.ToxShop.BanTooltipTitle",
+      "source": "Ban this Tox",
+      "sourceHash": "133a99ae57e02056f4c99b4f80d0f17f6c98f9da8d363ed1701cdfdd132c724e",
+      "sheet": "resources.assets-3068-Label",
+      "text": "禁用此 Tox",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.ToxShop.Banned",
+      "source": "Banned:",
+      "sourceHash": "d7bb8607cc9239107e45df590fa8df83aea81f797b7673ceee2f2a5fa9a1ddbb",
+      "sheet": "resources.assets-3068-Label",
+      "text": "已禁用：",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.ToxShop.BansLeft",
+      "source": "Bans left: {0}",
+      "sourceHash": "9102f33c4262012be76b7cbc182b3f0529de9f2f343819e0e3f7e5eb6437d604",
+      "sheet": "resources.assets-3068-Label",
+      "text": "剩余禁用次数：{0}",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.ToxShop.ReplaceAbility",
+      "source": "Replace an ability",
+      "sourceHash": "fe39e75e9988cdd5e044cc63c45d4359345c6381adab110d398fe6a4a3faedfb",
+      "sheet": "resources.assets-3068-Label",
+      "text": "替换一个技能",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Button",
+      "source": "Button",
+      "sourceHash": "707eab0c23ecbf6e5382ba61a346bc76aefee81303280fc0e08e59df18afbf8a",
+      "sheet": "resources.assets-3068-Label",
+      "text": "按钮",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Turn",
+      "source": "Turn",
+      "sourceHash": "b823d5f9d1ce690c00935e097200405bcf903b6bbd61e4866c3c1fda7fb3238c",
+      "sheet": "resources.assets-3068-Label",
+      "text": "回合",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Menu.Header.Home",
+      "source": "Home",
+      "sourceHash": "3a78695388b38b5cceefaf6796b0137877514593543b91af2752d5a17e3d736c",
+      "sheet": "resources.assets-3068-Label",
+      "text": "主页",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Menu.Header.Profile",
+      "source": "Profile",
+      "sourceHash": "d696a35bdd1883da07a8d6c41bb7a3153381b23aa197629ee273479a6eaa5a9c",
+      "sheet": "resources.assets-3068-Label",
+      "text": "个人资料",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Menu.Header.Profile.Statistics",
+      "source": "Statistics",
+      "sourceHash": "a656107e99c71dea1ba101ea816e3886370b68ca9f9ac8e5b2d79c6ffddd70a1",
+      "sheet": "resources.assets-3068-Label",
+      "text": "统计",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Menu.Header.Collection",
+      "source": "Collection",
+      "sourceHash": "7b790708ff1b171315a152018f3712e8c71c82f4f9000635f77a1336c34f1893",
+      "sheet": "resources.assets-3068-Label",
+      "text": "收藏",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Menu.Header.Play",
+      "source": "Play",
+      "sourceHash": "436e61016e26fcb773b9725745cbbf0afe7f001ea26041a814a7712c2925c442",
+      "sheet": "resources.assets-3068-Label",
+      "text": "开始对战",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Menu.Header.Play.Tutorial",
+      "source": "Tutorial",
+      "sourceHash": "c26982b1425da26a9637dd69da684a036c8b67a1ddf2c3d09b915a96e4b58037",
+      "sheet": "resources.assets-3068-Label",
+      "text": "教程",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Menu.Header.Play.Tournament",
+      "source": "Tournament",
+      "sourceHash": "ffb1b8a185d87f6d7b5f89ec44ba8f902c8701bd5563ab0de261f06382d3afcf",
+      "sheet": "resources.assets-3068-Label",
+      "text": "锦标赛",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Menu.Header.Missions",
+      "source": "Missions",
+      "sourceHash": "93ffb8ce98c75447c13e7fb1f2028e7edb262f14d62531fd3315a2cf4adb3e7f",
+      "sheet": "resources.assets-3068-Label",
+      "text": "任务",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Menu.Header.Missions.Daily",
+      "source": "Daily",
+      "sourceHash": "b36c2611dcdfa190ede846948d9aba8f39581de0177cbd98586506019f979b75",
+      "sheet": "resources.assets-3068-Label",
+      "text": "每日",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Menu.Header.Missions.Weekly",
+      "source": "Weekly",
+      "sourceHash": "2975132481a7a6957cfa95055d04e706f21f1a613f448d0a17463f2eacca4636",
+      "sheet": "resources.assets-3068-Label",
+      "text": "每周",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Menu.Header.Missions.Monthly",
+      "source": "Monthly",
+      "sourceHash": "9b11f6b707d2a03e0265465f32520bc1bc213de121de958539662d0ec1453fcb",
+      "sheet": "resources.assets-3068-Label",
+      "text": "每月",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Menu.Header.Customization",
+      "source": "Customization",
+      "sourceHash": "db4fd57378909f3aa6055a1161511dbac7cb913bcfb8ecfd206cb8d1a4d94b9c",
+      "sheet": "resources.assets-3068-Label",
+      "text": "自定义",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Menu.Header.Customization.Profile",
+      "source": "Profile",
+      "sourceHash": "d696a35bdd1883da07a8d6c41bb7a3153381b23aa197629ee273479a6eaa5a9c",
+      "sheet": "resources.assets-3068-Label",
+      "text": "个人资料",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Menu.Header.Customization.Effects",
+      "source": "Effects",
+      "sourceHash": "358511c8c09805c9c10b1ba11157ed0c08ced8599d59e27e16fa226bdc32d63e",
+      "sheet": "resources.assets-3068-Label",
+      "text": "效果",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Customization.Preview",
+      "source": "Preview",
+      "sourceHash": "324b134f57c70c729ae3dc4d298bb451656717d70523e942c1ce667b8024ea07",
+      "sheet": "resources.assets-3068-Label",
+      "text": "预览",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Menu.Header.Shop",
+      "source": "Shop",
+      "sourceHash": "d00aae6b7fbf77a4566d8df36805d7ae973894da9f533ec96516b31e028b71eb",
+      "sheet": "resources.assets-3068-Label",
+      "text": "商店",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Menu.Header.Shop.Cards",
+      "source": "Draw",
+      "sourceHash": "61517c08b3bf84b42ac5a38367a9ca07dbc54e9c00ee92df09debe4f38df34d4",
+      "sheet": "resources.assets-3068-Label",
+      "text": "平局",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.GameSettings",
+      "source": "Game Settings",
+      "sourceHash": "3c530d00e240efe25b082fb523ed7146c21002b21f86084ddb33bd8d2617ffa1",
+      "sheet": "resources.assets-3068-Label",
+      "text": "游戏设置",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.ReportBug",
+      "source": "Report a Bug",
+      "sourceHash": "7c29386e24ebe7df2c33d63991e0098f24ab1d4334432efe5dabe6b3d92ff93e",
+      "sheet": "resources.assets-3068-Label",
+      "text": "报告问题",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.JoinUs",
+      "source": "Join Us!",
+      "sourceHash": "f95aee5cb706bb2f7c1936bd03aea7217d6140cada3c984d72c072cae6fde5b7",
+      "sheet": "resources.assets-3068-Label",
+      "text": "加入社区！",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Credits",
+      "source": "Credits",
+      "sourceHash": "2a6b24ad287220345e96eb8021fe29d42b0785766c8df658827e7251da2d36dc",
+      "sheet": "resources.assets-3068-Label",
+      "text": "制作人员",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.CGU",
+      "source": "Legal Terms",
+      "sourceHash": "88ebf276113a5a7f2380fc2ca37611320cc59c5f09ac3f7baed835342f876568",
+      "sheet": "resources.assets-3068-Label",
+      "text": "使用条款",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.QuitGame",
+      "source": "Quit Game",
+      "sourceHash": "35b5cf54cb3fdcaedb4668e7a49b3fe529e2d1a87a9e21e3d1203286c60108ca",
+      "sheet": "resources.assets-3068-Label",
+      "text": "退出游戏",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Login.Status.Step.Steam",
+      "source": "Steam",
+      "sourceHash": "f71a850301976cee8f8f2e1386105374539c67eee5f2f187c0daca2c7426360b",
+      "sheet": "resources.assets-3068-Label",
+      "text": "Steam",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.PlayerStats",
+      "source": "Statistics",
+      "sourceHash": "a656107e99c71dea1ba101ea816e3886370b68ca9f9ac8e5b2d79c6ffddd70a1",
+      "sheet": "resources.assets-3068-Label",
+      "text": "统计",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Winrate",
+      "source": "Winrate",
+      "sourceHash": "d76dc4660f3d6dddf79faf8ee75ef9101ced00797711281a22f9331c46b93deb",
+      "sheet": "resources.assets-3068-Label",
+      "text": "胜率",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Collection",
+      "source": "Collection",
+      "sourceHash": "7b790708ff1b171315a152018f3712e8c71c82f4f9000635f77a1336c34f1893",
+      "sheet": "resources.assets-3068-Label",
+      "text": "收藏",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Collection.NewCardTag",
+      "source": "New",
+      "sourceHash": "18fdd549b2ed367ac0c74cbec1214644728515b30edbcb78e7d322757a7c8359",
+      "sheet": "resources.assets-3068-Label",
+      "text": "新增",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Collection.NewTalentTag",
+      "source": "New talent",
+      "sourceHash": "65baf28dfb37717b3cdaf6ceb16f24b0aa72d66056ed0d75908836d4064d6f0f",
+      "sheet": "resources.assets-3068-Label",
+      "text": "新天赋",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Collection.NewSkinTag",
+      "source": "New skin",
+      "sourceHash": "4b1bb974fd6311748d688b48e69474422a1c60ad2b7495a6f0f0f0e64e47614b",
+      "sheet": "resources.assets-3068-Label",
+      "text": "新外观",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.GamesPlayed",
+      "source": "Games played",
+      "sourceHash": "6b28c95b81e18d1f332f6afa7fb7705964dbd15972769270006da7e74fdbf1e4",
+      "sheet": "resources.assets-3068-Label",
+      "text": "对战场次",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Talents",
+      "source": "Talents",
+      "sourceHash": "e8871b70ebfa07d9a877d3f7fa78f7e4b1607d507811d03c1e375f8aa499de1f",
+      "sheet": "resources.assets-3068-Label",
+      "text": "天赋",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Talent.Hidden",
+      "source": "Hidden talent",
+      "sourceHash": "fa7513fcc6eb95cd7e34954dfa363eef783936e9ac40e533215feada7953d6e5",
+      "sheet": "resources.assets-3068-Label",
+      "text": "隐藏天赋",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.ThisSeason",
+      "source": "This season",
+      "sourceHash": "2f34b35503ca51d1909d7823602ba5cd9b3362d9a5e1226eba2e2d2799a61637",
+      "sheet": "resources.assets-3068-Label",
+      "text": "本赛季",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.MostPlayedCards",
+      "source": "Most played cards",
+      "sourceHash": "04d2f6a4234286f24fe5e8cca4dc38c18afc2e584f5463d8a06b73275659f838",
+      "sheet": "resources.assets-3068-Label",
+      "text": "常用卡牌",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.NoGamesPlayedYet",
+      "source": "No games played yet",
+      "sourceHash": "70c7e9fc8278c491f6c46a5655d008c798d86db53e0f7c5e494143a33106b0fc",
+      "sheet": "resources.assets-3068-Label",
+      "text": "暂无对战记录",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.SeeHistory",
+      "source": "See history",
+      "sourceHash": "a0452f0a3a16e1e6b4448ccef2307cf2a27e02fbae21e2bf5a64ec92b43f82b4",
+      "sheet": "resources.assets-3068-Label",
+      "text": "查看记录",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.BackToMyProfile",
+      "source": "Back to my profile",
+      "sourceHash": "c65e2660f87adf9066f95bad685a1b395f649ea919b6c2f93dc700dc89af8d35",
+      "sheet": "resources.assets-3068-Label",
+      "text": "返回我的资料",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Level",
+      "source": "Level",
+      "sourceHash": "1709305c9fa966d14f56f0da3c3614bbc10adcf53d72f90341bb96d24afcfca3",
+      "sheet": "resources.assets-3068-Label",
+      "text": "等级",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.MyCode",
+      "source": "My code",
+      "sourceHash": "b441c5e3812a78c11210de870c2cd549c625704dcf062230943a743d8a11aca7",
+      "sheet": "resources.assets-3068-Label",
+      "text": "我的好友码",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.AddFriend",
+      "source": "Add Friend",
+      "sourceHash": "0967ca7c2b0d21c31e6f35e6d1d3c67e0b23e4c73ea8d81448303c64c6097e06",
+      "sheet": "resources.assets-3068-Label",
+      "text": "添加好友",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.SeeStatistics",
+      "source": "See statistics",
+      "sourceHash": "eb47b4beabd2c540d868e28f2047b0c68f6dfdb20b09a264fe7577dffc559568",
+      "sheet": "resources.assets-3068-Label",
+      "text": "查看统计",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.GameHistory",
+      "source": "Game history",
+      "sourceHash": "f39cd5599f98c12c58b5e045570fd9814e11ff3082b7fdd5b0e6dc370e566834",
+      "sheet": "resources.assets-3068-Label",
+      "text": "对战记录",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Victory",
+      "source": "Victory",
+      "sourceHash": "2e9b5a0c4e6aeb0891cc2c8e346bf9d556bd5590327441bfda28fdf36ff4db43",
+      "sheet": "resources.assets-3068-Label",
+      "text": "胜利",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Defeat",
+      "source": "Defeat",
+      "sourceHash": "2be4cda83179a528092a54c89f500cfea91912205b857351efe420362bd6becb",
+      "sheet": "resources.assets-3068-Label",
+      "text": "失败",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Draw",
+      "source": "Draw",
+      "sourceHash": "61517c08b3bf84b42ac5a38367a9ca07dbc54e9c00ee92df09debe4f38df34d4",
+      "sheet": "resources.assets-3068-Label",
+      "text": "平局",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Ranking",
+      "source": "Ranking",
+      "sourceHash": "2ef9d509bd5a5dff88115972a3e5df5b5291899aa186cae59aa77c17565c7d62",
+      "sheet": "resources.assets-3068-Label",
+      "text": "排名",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.WriteAMessage",
+      "source": "Write a message...",
+      "sourceHash": "c851cf13ac2d53e512dfa653f527dc6c62e5f284e0b172da4e40388d8a696bfc",
+      "sheet": "resources.assets-3068-Label",
+      "text": "输入消息…",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Leaderboard",
+      "source": "Leaderboard",
+      "sourceHash": "31b471215872634299bc844f90c0493a24f6db1f00dca395175da335c4c0ca1d",
+      "sheet": "resources.assets-3068-Label",
+      "text": "排行榜",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Pending",
+      "source": "Pending",
+      "sourceHash": "331551b0de4157c9abc7b72b61b96a2a928fd6db3cdf029c1fc44b08ad633aa6",
+      "sheet": "resources.assets-3068-Label",
+      "text": "待处理",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.ShowProfile",
+      "source": "Show profile",
+      "sourceHash": "e0fe9f1d6347e290220d44bad1e426291878c40846ae58ff025457b2b1ad0709",
+      "sheet": "resources.assets-3068-Label",
+      "text": "查看资料",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.GameDetailKO",
+      "source": "KO",
+      "sourceHash": "849af174c5b12dfa88182220b80a305693774a7d81561f83a11390184cc811c1",
+      "sheet": "resources.assets-3068-Label",
+      "text": "KO",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.GameDetailReplay",
+      "source": "Watch replay",
+      "sourceHash": "c8162b889431fc4fec01d8eafc9d8ef3bbf1b3ad3d9b4bf8556a48db6ca6dba4",
+      "sheet": "resources.assets-3068-Label",
+      "text": "观看回放",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.ReplayBadge",
+      "source": "Replay",
+      "sourceHash": "c8dae6371b33b8d67fdbd138fd28e89eefbd7af6b764f282b0872812b06a150c",
+      "sheet": "resources.assets-3068-Label",
+      "text": "回放",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.ReplayTurn",
+      "source": "Turn {0} / {1}",
+      "sourceHash": "29c793da414dea2c3d458c25ecec15480d2b04d79f74a0831b7f19e8a53f10c9",
+      "sheet": "resources.assets-3068-Label",
+      "text": "回合 {0} / {1}",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.ReplayPause",
+      "source": "Pause",
+      "sourceHash": "858e4ba7a29fd38b630ed73a79e2738333b3fc6778fafa90252f5556c1262fdc",
+      "sheet": "resources.assets-3068-Label",
+      "text": "暂停",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.ReplayResume",
+      "source": "Resume",
+      "sourceHash": "d640c7421da066618a39daf4266da5f61f66a9b1afcd626481b831a17064965d",
+      "sheet": "resources.assets-3068-Label",
+      "text": "继续",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.ReplaySpeed",
+      "source": "Speed x{0}",
+      "sourceHash": "10e824323fbfd65b6fa67e637cd2a4821c90c94be2e1e0c608506278f07bc74e",
+      "sheet": "resources.assets-3068-Label",
+      "text": "速度 ×{0}",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.ReplayNextAction",
+      "source": "Next action",
+      "sourceHash": "365987d015f79bfb9698ff14a8b19af6d94c689c6f5b6a5a17c4adf187fbe321",
+      "sheet": "resources.assets-3068-Label",
+      "text": "下一步操作",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.ReplayQuit",
+      "source": "Quit",
+      "sourceHash": "b3eb37acb66ba4bbe8fb1ba296815daf194be94f5a5fb50dab2fb5e4a57ba29e",
+      "sheet": "resources.assets-3068-Label",
+      "text": "退出",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.ReplayEnded",
+      "source": "End of replay",
+      "sourceHash": "4bb8e2753d4db6698ecbee0d8ce8ee2c505476155412ed807980bcc0221b4903",
+      "sheet": "resources.assets-3068-Label",
+      "text": "回放结束",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.ReplayRestart",
+      "source": "Watch again",
+      "sourceHash": "acdf17a9599d40bb71e53b743e90ceb4cc6e1a6f44c302af81ff3d95c07f7d36",
+      "sheet": "resources.assets-3068-Label",
+      "text": "重新观看",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.ReplayBackToProfile",
+      "source": "Back to profile",
+      "sourceHash": "d5647f365983c13277caa882dea35ad0383475d229dbec5ee955c12edf6d2282",
+      "sheet": "resources.assets-3068-Label",
+      "text": "返回资料",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.ReplayPrevAction",
+      "source": "Previous action",
+      "sourceHash": "730c9f9f651f9871593db0493b3e3ecd8c2b73458de941d6e52b5c2b5c9d658c",
+      "sheet": "resources.assets-3068-Label",
+      "text": "上一步操作",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.ReplayTurnOf",
+      "source": "Turn {0} · {1}",
+      "sourceHash": "26f55034dff4a17c303280cb2404d896f69be1cfd549624c86a5bee42a288a9d",
+      "sheet": "resources.assets-3068-Label",
+      "text": "回合 {0} · {1}",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.ReplayTurnStart",
+      "source": "Start of turn",
+      "sourceHash": "c4c66e70da745fea74e26b97a952ff520291ffe6f572800222b3133cf7af5d4c",
+      "sheet": "resources.assets-3068-Label",
+      "text": "回合开始",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.ReplayActionDamage",
+      "source": "{0} damage",
+      "sourceHash": "5b6c0e4103646597b77dd41755e29b6f0dde231bb34da81f131998fc2598931e",
+      "sheet": "resources.assets-3068-Label",
+      "text": "{0} 点伤害",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.ReplayActionCrit",
+      "source": "{0} critical damage",
+      "sourceHash": "6e87756933fa19155d42ba66c7fa3ea82ff5cfc8ff7a10023c48e563a371d678",
+      "sheet": "resources.assets-3068-Label",
+      "text": "{0} 点暴击伤害",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.ReplayActionHeal",
+      "source": "+{0} HP",
+      "sourceHash": "1d4b56d7e6fe00d11a9684e102db950c62633e9c3d068f2387b282e4b8b852be",
+      "sheet": "resources.assets-3068-Label",
+      "text": "+{0} 生命",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.ReplayActionKill",
+      "source": "{0} destroyed",
+      "sourceHash": "b688fa019f4e755b6425f8cc989fa2b4836bebdd74c55d7816e9550eff4cdc33",
+      "sheet": "resources.assets-3068-Label",
+      "text": "{0} 被摧毁",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.ReplayActionPassive",
+      "source": "Passive",
+      "sourceHash": "78c04330e9895ac818e3c1609e8a762674ca041a392c0cf459df04257522facd",
+      "sheet": "resources.assets-3068-Label",
+      "text": "被动",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.ReplayActionOn",
+      "source": "{0} on {1}",
+      "sourceHash": "9c00c3d90caa3f189ac408465098b64a9690bb385006bce3d7bdceb412aa035d",
+      "sheet": "resources.assets-3068-Label",
+      "text": "对 {1} 使用 {0}",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.ReplayHpGap",
+      "source": "HP gap",
+      "sourceHash": "b66ac90602cdd9bb1b748808b15380aa11d4b6df19f271a4f8001e74f53913b8",
+      "sheet": "resources.assets-3068-Label",
+      "text": "生命差距",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.ReplayTurningPoint",
+      "source": "Turning point",
+      "sourceHash": "77def70d94aa9fbd92db228a6988299a24b39751e120e20565f95b06451c593d",
+      "sheet": "resources.assets-3068-Label",
+      "text": "转折点",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.ReplayShowCurve",
+      "source": "Show the curve",
+      "sourceHash": "c397e8ef019b9f46ffb6e87b0942a1edd7680c14b0029eeae0439c8c2bcf6cbe",
+      "sheet": "resources.assets-3068-Label",
+      "text": "显示曲线",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.ReplayHideCurve",
+      "source": "Hide the curve",
+      "sourceHash": "ea202af574169ff24450d7db39b902d2144ccfbcd43dc16b7b9643b6aacb0bc0",
+      "sheet": "resources.assets-3068-Label",
+      "text": "隐藏曲线",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.GameDetailTurnsCount",
+      "source": "{0} turns",
+      "sourceHash": "a064a7f03cdffe7f871c99980cee3fc79cbe56560d4dcbe6a9c592868fc68da8",
+      "sheet": "resources.assets-3068-Label",
+      "text": "{0} 回合",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.GameDetailDamageShort",
+      "source": "Dmg",
+      "sourceHash": "f98a704580f9436e41c5117a0c3c7d92ee94f88ce63370775439dbca7843d26b",
+      "sheet": "resources.assets-3068-Label",
+      "text": "伤害",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.GameDetailKillsShort",
+      "source": "Kills",
+      "sourceHash": "df57f07aa13f7fcaa872472f4e483fb9d151469289165655d0e0be6f961f6406",
+      "sheet": "resources.assets-3068-Label",
+      "text": "击杀",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.GameDetailStarted",
+      "source": "Went first",
+      "sourceHash": "a57ba2471956a81fa8baac3d3437067cec17d6c81ba67976dcd605adfff0119c",
+      "sheet": "resources.assets-3068-Label",
+      "text": "先手",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.GameDetailEndSurrenderWin",
+      "source": "{0} surrendered",
+      "sourceHash": "ae32d9700d43193f6527f4a9a0e80a8aeb53bd74d27aced3dd8d00cdc8435713",
+      "sheet": "resources.assets-3068-Label",
+      "text": "{0} 已投降",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.GameDetailEndSurrenderLoss",
+      "source": "You surrendered",
+      "sourceHash": "4d2cdbddb59dc7b6602fb955bdbe36ea53ee4ea165f418fc6abbd28b67fc567c",
+      "sheet": "resources.assets-3068-Label",
+      "text": "你已投降",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.GameDetailEndDisconnectWin",
+      "source": "{0} disconnected",
+      "sourceHash": "3aa1c88b22737867c3be91c7063c12f21956d38769745d1d4203bf1c3b68b920",
+      "sheet": "resources.assets-3068-Label",
+      "text": "{0} 已断开连接",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.GameDetailEndDisconnectLoss",
+      "source": "Disconnected",
+      "sourceHash": "04dfac3671b494ad53fcd152f7a14511bfb35747278aad8ce254a0d6e4ba4718",
+      "sheet": "resources.assets-3068-Label",
+      "text": "已断开连接",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Challenge",
+      "source": "Challenge",
+      "sourceHash": "27cf1792f7bb4da955117bb4a15cb33f4e4705984cacfac9055a2884b061e4e1",
+      "sheet": "resources.assets-3068-Label",
+      "text": "挑战",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Spectate",
+      "source": "Spectate",
+      "sourceHash": "f56e0a1e1ec3e3a08b4533f27fb7ac708218e20cdc73f4ddaa5f1d9cfdc252e5",
+      "sheet": "resources.assets-3068-Label",
+      "text": "观战",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Remove",
+      "source": "Remove",
+      "sourceHash": "c3812fc4acb861d5182fc2b8155f327f736fbe5e5eb86a7bd7afcb6dc5497282",
+      "sheet": "resources.assets-3068-Label",
+      "text": "移除",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Accept",
+      "source": "Accept",
+      "sourceHash": "89713b9c9c1b8f659c9f49db25e4a47886dd673fee248c3f650391f09a759cef",
+      "sheet": "resources.assets-3068-Label",
+      "text": "接受",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Deny",
+      "source": "Deny",
+      "sourceHash": "05a2d7332eb9d8bf164487c743a2e93c21b16bb2061a93e3ee2ceb508eadb753",
+      "sheet": "resources.assets-3068-Label",
+      "text": "拒绝",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Chat",
+      "source": "Chat",
+      "sourceHash": "460b3a7da007b7af9d35bca54181dc91382263b2bf133ca214871ca1fed1fc1c",
+      "sheet": "resources.assets-3068-Label",
+      "text": "聊天",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Cards",
+      "source": "Cards",
+      "sourceHash": "a52fcbbc33644d315e787216b2237fa285c1811d68085140430e74f48f4cae57",
+      "sheet": "resources.assets-3068-Label",
+      "text": "卡牌",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.FreeShop",
+      "source": "Free",
+      "sourceHash": "f411a1fb62758b4c54690d0a702b4955b54dd22115416fa7b1ce51b4a084818d",
+      "sheet": "resources.assets-3068-Label",
+      "text": "免费",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "CardShop.BuyButton.free",
+      "source": "Choose",
+      "sourceHash": "c7f937836f5d82d53bc507752075f87e25009ec11bc9fd4e282f0b645e47af7c",
+      "sheet": "resources.assets-3068-Label",
+      "text": "选择",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "CardShop.Tag.New",
+      "source": "New",
+      "sourceHash": "18fdd549b2ed367ac0c74cbec1214644728515b30edbcb78e7d322757a7c8359",
+      "sheet": "resources.assets-3068-Label",
+      "text": "新增",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Filters",
+      "source": "Filters",
+      "sourceHash": "546ebb8eb993ea561029d9febd84c363bdb09010bb2cb915a8287762b76b9a64",
+      "sheet": "resources.assets-3068-Label",
+      "text": "筛选",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Elements",
+      "source": "Elements",
+      "sourceHash": "e1ff7a90610311027cdc7238fa223154380d0dae3603d6a7bd102dfef6f5f31b",
+      "sheet": "resources.assets-3068-Label",
+      "text": "元素",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Rarities",
+      "source": "Rarities",
+      "sourceHash": "a8b15f6aac72c0ea4a1d875529071fab652ec0fcfe8e774b3d483fcbdc31ea3f",
+      "sheet": "resources.assets-3068-Label",
+      "text": "稀有度",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Effects",
+      "source": "Effects",
+      "sourceHash": "358511c8c09805c9c10b1ba11157ed0c08ced8599d59e27e16fa226bdc32d63e",
+      "sheet": "resources.assets-3068-Label",
+      "text": "效果",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Passives",
+      "source": "Passives",
+      "sourceHash": "f174b537451e71c57edf43a32ff38d956b25996db1ba9bc8024e4efef1134f72",
+      "sheet": "resources.assets-3068-Label",
+      "text": "被动",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.All",
+      "source": "All",
+      "sourceHash": "a52ace420f2175d08b1577a1bea5445e36801229c074ef9ed6c55a73401fd9c2",
+      "sheet": "resources.assets-3068-Label",
+      "text": "全部",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Search",
+      "source": "Search...",
+      "sourceHash": "7f55382219f0202c1b4f56deb099e2fedcec87ee73fe2edb2105df5447323bc6",
+      "sheet": "resources.assets-3068-Label",
+      "text": "搜索…",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Decks",
+      "source": "Decks",
+      "sourceHash": "3e9aa4f07223251c3a2227837f7d3dabdaa1f6011429515e1d1c8c7bd4c374c0",
+      "sheet": "resources.assets-3068-Label",
+      "text": "牌组",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Rename",
+      "source": "Rename",
+      "sourceHash": "3064d79a295cefe4b384b8fe5cb29fd6b06d7eb1ad94b8895f4148039d06b330",
+      "sheet": "resources.assets-3068-Label",
+      "text": "重命名",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Delete",
+      "source": "Delete",
+      "sourceHash": "e2d0a54968ead24efc0dffa6ac78fc606dceec34a0f586177a74a54cc2272cf8",
+      "sheet": "resources.assets-3068-Label",
+      "text": "删除",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.AddDeck",
+      "source": "Add deck",
+      "sourceHash": "6eb11f3d1d928ef7b4736eda5ea5d8c2e5ad3df161696f22064113d653fb0e6c",
+      "sheet": "resources.assets-3068-Label",
+      "text": "添加牌组",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Abilities",
+      "source": "Abilities",
+      "sourceHash": "81932b99d9d932d998aaa17ae2359f7c6e868af4479be078e0115927c4edd738",
+      "sheet": "resources.assets-3068-Label",
+      "text": "技能",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Lore",
+      "source": "Lore",
+      "sourceHash": "12593033bc5d791a872ef1b1a8f9f992bd600828d2551d0f2ab78150b17e2c9e",
+      "sheet": "resources.assets-3068-Label",
+      "text": "背景故事",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.NoOrbsAvailable",
+      "source": "No orbs available",
+      "sourceHash": "05a7c8d19b8670ca04d69a91dad2a4e46bb98d9db21c071c94037fae9af434b3",
+      "sheet": "resources.assets-3068-Label",
+      "text": "暂无宝珠",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.OpenNewOrb",
+      "source": "Open a new orb",
+      "sourceHash": "f702d9552f15a921059869c7a3540f9d0e27e5ab4ce7e05fa0b6e830b52db9ce",
+      "sheet": "resources.assets-3068-Label",
+      "text": "开启新宝珠",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Article.Type.Name.Card",
+      "source": "Card",
+      "sourceHash": "be3702e3f1af559a8df03568294283934a2558521fd8895f68eda09e3ce4f8a3",
+      "sheet": "resources.assets-3068-Label",
+      "text": "卡牌",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.CardsOwned",
+      "source": "Owned",
+      "sourceHash": "17b760c41cd2093315bba1008eaae9c4c05e3aa0fbbcf7477abfb775e62d6c5c",
+      "sheet": "resources.assets-3068-Label",
+      "text": "已拥有",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Select",
+      "source": "Select",
+      "sourceHash": "2a78025de6aae5e7ff88e5a951bb3a78ddd67388913529cf9e2dd9653e62b02d",
+      "sheet": "resources.assets-3068-Label",
+      "text": "选择",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Selected",
+      "source": "Selected",
+      "sourceHash": "57fd7a0cf33f2666eede69e44f8857159653f2f28e4fd7482a5e16d4af628d2a",
+      "sheet": "resources.assets-3068-Label",
+      "text": "已选择",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.BuyFor",
+      "source": "Buy for {0}",
+      "sourceHash": "dd1266033fa7e09988925f5b6a16c0a48a5beb93851d50ea0f63f88cef3ccc78",
+      "sheet": "resources.assets-3068-Label",
+      "text": "花费 {0} 购买",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.SearchInProgress",
+      "source": "Search in progress",
+      "sourceHash": "cf03623fd2eaa4bb845619ccc2bd7a6366821b40e41eb768b44094e65a7c1c9c",
+      "sheet": "resources.assets-3068-Label",
+      "text": "正在匹配",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.ClickToCancel",
+      "source": "Click to cancel",
+      "sourceHash": "9208ca8f3d65373d2cf79910725bf8ee1415390074b1667a4701b665fde470be",
+      "sheet": "resources.assets-3068-Label",
+      "text": "点击取消",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Play",
+      "source": "Play",
+      "sourceHash": "436e61016e26fcb773b9725745cbbf0afe7f001ea26041a814a7712c2925c442",
+      "sheet": "resources.assets-3068-Label",
+      "text": "开始对战",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Train",
+      "source": "Train",
+      "sourceHash": "e99c90db87c0e400832edcedcc1b14e33cff7559988f4d7032337e17401b2945",
+      "sheet": "resources.assets-3068-Label",
+      "text": "练习",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.AcceptMatch",
+      "source": "Accept the match",
+      "sourceHash": "e71046e0730a1ea9d4f9461241ae2cbf44f74d0d535486e3455f4a6a10a6c4f0",
+      "sheet": "resources.assets-3068-Label",
+      "text": "接受对战",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.DenyMatch",
+      "source": "Refuse the match",
+      "sourceHash": "5cd8bf24ebeb0772ada7f309b38e76299659a5acd90b9648989c5e8f61ffaea2",
+      "sheet": "resources.assets-3068-Label",
+      "text": "拒绝对战",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.MatchFound",
+      "source": "Match found!",
+      "sourceHash": "93c4b65be47bee7b2025fcf7f6c9c8926662c194538fd0589d409c8c5f85d8cb",
+      "sheet": "resources.assets-3068-Label",
+      "text": "找到对战！",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.WaitingOpponent",
+      "source": "Waiting for your opponent...",
+      "sourceHash": "a7059a0e9f5cfef21a032a694e9345081912e7877f789666d09bd4f4a708da29",
+      "sheet": "resources.assets-3068-Label",
+      "text": "正在等待对手…",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Username",
+      "source": "Username",
+      "sourceHash": "e3b89e9d33f88e523083d8b4436adcc3726c89e97fd3179a2e102d765d1b16ed",
+      "sheet": "resources.assets-3068-Label",
+      "text": "用户名",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Password",
+      "source": "Password",
+      "sourceHash": "e7cf3ef4f17c3999a94f2c6f612e8a888e5b1026878e4e19398b23bd38ec221a",
+      "sheet": "resources.assets-3068-Label",
+      "text": "密码",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Connect",
+      "source": "Connect",
+      "sourceHash": "1a2303ede07493acc7caaa7c737f3c52bcc9cf04372be19ed1b0af6b9f2c791e",
+      "sheet": "resources.assets-3068-Label",
+      "text": "连接",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.CustomLogin",
+      "source": "Custom login",
+      "sourceHash": "6a1ea9be50b0609f07bd90a50220034c815613b70c6ab74564c518cc498f4c48",
+      "sheet": "resources.assets-3068-Label",
+      "text": "自定义登录",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.ChallengedBy",
+      "source": "Challenged by {0}",
+      "sourceHash": "df437ae1ffd6d27749ab8e12e7c2276b988e429f4b8695faf0239848f1a03aaa",
+      "sheet": "resources.assets-3068-Label",
+      "text": "{0} 向你发起挑战",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.OpenOrb",
+      "source": "Open orb",
+      "sourceHash": "f9dfd39af7459ab76e419d64eab55c4ec6a79c0b1845329673228ac7ab77ff13",
+      "sheet": "resources.assets-3068-Label",
+      "text": "开启宝珠",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.StarterOrb.Title",
+      "source": "Choose your starter orb",
+      "sourceHash": "d14a3a68636b9b67e3d71c1551f25368c3791b350a4c2edb4ee8b07442cdf5d6",
+      "sheet": "resources.assets-3068-Label",
+      "text": "选择起始宝珠",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.StarterOrb.Pick",
+      "source": "Pick an orb",
+      "sourceHash": "bc5535aad33547c4869bc9177343fac2808a817a4384cec8c013750184d05de9",
+      "sheet": "resources.assets-3068-Label",
+      "text": "选择宝珠",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.StarterOrb.Choose",
+      "source": "Choose",
+      "sourceHash": "c7f937836f5d82d53bc507752075f87e25009ec11bc9fd4e282f0b645e47af7c",
+      "sheet": "resources.assets-3068-Label",
+      "text": "选择",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.StarterOrb.Later",
+      "source": "Later",
+      "sourceHash": "73b6e48a1b552d112502d37a7b7870436efc5ea1de0bca58ccf12d6ae15d3a0c",
+      "sheet": "resources.assets-3068-Label",
+      "text": "稍后",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.StarterOrb.Final",
+      "source": "This choice is final.",
+      "sourceHash": "5f4dee1cd2bb806f75dfad65126cc148371a72d01a90b62b289fbbeab12eedec",
+      "sheet": "resources.assets-3068-Label",
+      "text": "此选择无法更改。",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.BuyOrbs",
+      "source": "Buy orbs",
+      "sourceHash": "2523f2d636eda38d475d9975157cce31d87650baec77ad3789e8c62479544b98",
+      "sheet": "resources.assets-3068-Label",
+      "text": "购买宝珠",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.BuyPremiumMoney",
+      "source": "Buy spams",
+      "sourceHash": "0ea8ffa268a5e05a2b8fe0e67b87860d0ca3482e363473748517729d03bc446a",
+      "sheet": "resources.assets-3068-Label",
+      "text": "购买 Spam",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Shop.Money.Offered",
+      "source": "Free",
+      "sourceHash": "f411a1fb62758b4c54690d0a702b4955b54dd22115416fa7b1ce51b4a084818d",
+      "sheet": "resources.assets-3068-Label",
+      "text": "免费",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Claim",
+      "source": "Claim",
+      "sourceHash": "4ca41db0282537009663db9b9ae8142e0e6b60812996d07075e5a9291d3d91bf",
+      "sheet": "resources.assets-3068-Label",
+      "text": "领取",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Mission.ClickToClaim",
+      "source": "Click to claim",
+      "sourceHash": "2819799da433e9e93770e18ffae1799d1f3c9d48b258823dd6e07c4f487f61a2",
+      "sheet": "resources.assets-3068-Label",
+      "text": "点击领取",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Mission.TapToClaim",
+      "source": "Tap to claim",
+      "sourceHash": "2a036e0bff7b96306405758a576fd9d1e8ebb18486118eeb5d1c6970f002f021",
+      "sheet": "resources.assets-3068-Label",
+      "text": "点击领取",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Missions.NewIn",
+      "source": "New missions in {0}",
+      "sourceHash": "ab84368b8f983f762a94a32d11f14d4c503cbd5831971d401399bebd09244c3f",
+      "sheet": "resources.assets-3068-Label",
+      "text": "距离新任务 {0}",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.OrbRestriction.Title",
+      "source": "Good to know",
+      "sourceHash": "aab7685123cf4b021c62a41c905fdc381aaa3ae8e944299e4cdf58955258f445",
+      "sheet": "resources.assets-3068-Label",
+      "text": "温馨提示",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.OrbFactory",
+      "source": "Orb factory",
+      "sourceHash": "fcd2978aa59bfd42acc8e7a7cab00b2d10e346c6b665c6c718c574306fd28c1b",
+      "sheet": "resources.assets-3068-Label",
+      "text": "宝珠工坊",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Accomplished",
+      "source": "Accomplished",
+      "sourceHash": "751013badbb1cc5288ae2f7ba5c0d308c7c52e1ae62ae70aba785dda9885262c",
+      "sheet": "resources.assets-3068-Label",
+      "text": "已完成",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Artist",
+      "source": "Artist",
+      "sourceHash": "1d3981ba1e1892a87546666766b83d6a10a6341db303863a19fd63c2e90598e1",
+      "sheet": "resources.assets-3068-Label",
+      "text": "画师",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.CardsWithTalent",
+      "source": "With talent",
+      "sourceHash": "fdf8fcde6f56c9390fbc46f7f1bf19909b16bb182c54bcbaf5151610c08773e6",
+      "sheet": "resources.assets-3068-Label",
+      "text": "含天赋",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Base",
+      "source": "Base",
+      "sourceHash": "7b47361aad19bb483aeab081a7df0a55f7cb0fdb3327efe6dd016e6353a17880",
+      "sheet": "resources.assets-3068-Label",
+      "text": "基础",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Critical",
+      "source": "Critical",
+      "sourceHash": "427dd2969bd140bec3c1bcc7983da982f4815938cd4510ad0b2bad48ac5b55f9",
+      "sheet": "resources.assets-3068-Label",
+      "text": "暴击",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Button.RestartMatch",
+      "source": "Restart a match",
+      "sourceHash": "9d5876419701dd504a1213f84082ca48863755068575e46cff15d79c6a79dd34",
+      "sheet": "resources.assets-3068-Label",
+      "text": "再来一局",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Button.BackToMenu",
+      "source": "Back to Menu",
+      "sourceHash": "754dcd4b8ce65ea08a54459eca495046a889863eca03f60e48023937a9b0275b",
+      "sheet": "resources.assets-3068-Label",
+      "text": "返回菜单",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.GeneralStatistics",
+      "source": "General statistics",
+      "sourceHash": "8cc74e4f86d6f25fff409f281127e393dd35e18937bbbac6bf1ee90051610656",
+      "sheet": "resources.assets-3068-Label",
+      "text": "综合统计",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Toxs",
+      "source": "Toxs",
+      "sourceHash": "4a93631c9f61591fd23f60ecbbf059f7648d8281b81200f9bc1e62c472a76b29",
+      "sheet": "resources.assets-3068-Label",
+      "text": "Tox",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.NextRank",
+      "source": "Next rank",
+      "sourceHash": "12c75d6502fe222a7fd6781add19a2bd643f4c951b1c90e47f4424d21a330a8f",
+      "sheet": "resources.assets-3068-Label",
+      "text": "下一段位",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.DamageDone",
+      "source": "Damage dealt",
+      "sourceHash": "b04d2171aba7ca4bd69e63ea2b14c5996a3f8e2993de7a885aad59bd783bb85f",
+      "sheet": "resources.assets-3068-Label",
+      "text": "造成伤害",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.DamageTaken",
+      "source": "Damage taken",
+      "sourceHash": "b3e2c56ecd4b4c837af74a4d56754d4d556fdc2e58eb2700f325f0cd3d628781",
+      "sheet": "resources.assets-3068-Label",
+      "text": "承受伤害",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.HealDone",
+      "source": "Healing done",
+      "sourceHash": "2f229fd5d95220e9f9b714d4796050310fdc00c880fd93ce5dc8fa1d45315ad7",
+      "sheet": "resources.assets-3068-Label",
+      "text": "提供治疗",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.HealTaken",
+      "source": "Healing received",
+      "sourceHash": "dbb5b4836dbe53d00ce84f417064514c2c21e7aa22a75940a3100e7642bee718",
+      "sheet": "resources.assets-3068-Label",
+      "text": "获得治疗",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Graph",
+      "source": "Graph",
+      "sourceHash": "32ab018fd38a7b42f8a42c77d3453516c4f7fefdddbf18bc6eab14a4a1b0a10e",
+      "sheet": "resources.assets-3068-Label",
+      "text": "图表",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Cumulative",
+      "source": "Cumulative",
+      "sourceHash": "cecf2aade089366e0a1d7c3dfc5acb40de8bb0d84c71b890d96da2f2de96c152",
+      "sheet": "resources.assets-3068-Label",
+      "text": "累计",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.GraphLegendOpponent",
+      "source": "Opponent",
+      "sourceHash": "c0886e50d42e64069e7adc52b250380dfeb63db2bea33692470d85135cf70df2",
+      "sheet": "resources.assets-3068-Label",
+      "text": "对手",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.StatsSectionCombat",
+      "source": "Combat",
+      "sourceHash": "49fcf2c78b506b3e32115f752124e4ee1b998f4f578cc2d35425e6ee3eb203a6",
+      "sheet": "resources.assets-3068-Label",
+      "text": "战斗",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.StatsSectionResources",
+      "source": "Resources generated",
+      "sourceHash": "c7b5884a15dfe40e42f36cbbd8749b72e948a835a7680682231b8d4506388e80",
+      "sheet": "resources.assets-3068-Label",
+      "text": "生成资源",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.GraphCurves",
+      "source": "Curves",
+      "sourceHash": "4c2c115ca08db2afa9acf6da0f27fcec1964ee8e0a6769946061e3138e5d792b",
+      "sheet": "resources.assets-3068-Label",
+      "text": "曲线",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.GraphMyCards",
+      "source": "My cards",
+      "sourceHash": "0cddbc5317b2ce4f87980f598812ec996709fff903ba51381c463071eb1a16eb",
+      "sheet": "resources.assets-3068-Label",
+      "text": "我的卡牌",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.GraphShowAll",
+      "source": "Show all",
+      "sourceHash": "2150d8df37e489573fb8f0f19ef89d2eda2ba4b49b3beb36333e5096a99a6dc0",
+      "sheet": "resources.assets-3068-Label",
+      "text": "显示全部",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.GraphCardDeath",
+      "source": "Card death",
+      "sourceHash": "dca8cbddc20f83afdc31ef48acc481a6dba671a6cfd5b0f6f6405af6bc2eb8fc",
+      "sheet": "resources.assets-3068-Label",
+      "text": "卡牌阵亡",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.GraphTurnNumber",
+      "source": "Turn {0}",
+      "sourceHash": "118aa335af5da173ab74858ba222636ca58199f10d00c7451147179a0ed20f3b",
+      "sheet": "resources.assets-3068-Label",
+      "text": "回合 {0}",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.GraphAllHidden",
+      "source": "All curves are hidden",
+      "sourceHash": "6818cf88d2db91d65c7957655b366ade4865aedb112ff2c35090e387555c1271",
+      "sheet": "resources.assets-3068-Label",
+      "text": "所有曲线已隐藏",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Survavibilite",
+      "source": "Survivability",
+      "sourceHash": "9c4e1c5dda84da73e98278dada93c432986a0b4a57eb04d9b4801f3e3fb0102e",
+      "sheet": "resources.assets-3068-Label",
+      "text": "生存能力",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.SpamtonGenerated",
+      "source": "Spamton generated",
+      "sourceHash": "0e4c3df2821d6ad0de193203d4ab7bef1b356b8031d58de1a3d84f08299ed1be",
+      "sheet": "resources.assets-3068-Label",
+      "text": "生成 Spamton",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.ElementFire",
+      "source": "Fire generated",
+      "sourceHash": "4248fec9047ec3def894d0bc800a0d19731cf2a320d85441621df4f493f60b7c",
+      "sheet": "resources.assets-3068-Label",
+      "text": "生成火元素",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.ElementWater",
+      "source": "Water generated",
+      "sourceHash": "c263feea9b93b366ebfc18e042e64615bc4da2150816d66d3330d983a81e3c4e",
+      "sheet": "resources.assets-3068-Label",
+      "text": "生成水元素",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.ElementEarth",
+      "source": "Earth generated",
+      "sourceHash": "38d44f707bc9eb275dc3c3ec8e35849b03ab8c86f3f419c3446dfae4eea04111",
+      "sheet": "resources.assets-3068-Label",
+      "text": "生成土元素",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.ElementNature",
+      "source": "Nature generated",
+      "sourceHash": "68eb47f29b5aa57c69e3c0d2745b29083de72d296551f2187cd6a37bd3d246f4",
+      "sheet": "resources.assets-3068-Label",
+      "text": "生成自然元素",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.ElementLight",
+      "source": "Light generated",
+      "sourceHash": "10605c5064c977e33c4a6b6f097abba6c4e925d465a951bd8e83da7dd3a30c8d",
+      "sheet": "resources.assets-3068-Label",
+      "text": "生成光元素",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.ElementShadow",
+      "source": "Shadow generated",
+      "sourceHash": "00db3f91a8e1acf15059261bd70502fa1d8ec25d95c14eb14cfb2be3b8ffba36",
+      "sheet": "resources.assets-3068-Label",
+      "text": "生成暗元素",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Experience",
+      "source": "Experience",
+      "sourceHash": "8eab0f09df013b1bd69655991bb824cfa822d383b482905789153d4df8bfda78",
+      "sheet": "resources.assets-3068-Label",
+      "text": "经验",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.ReadyToFight",
+      "source": "Ready to fight!",
+      "sourceHash": "1ee43fad8ae924f21bfbb4e0bb8ae2a341da987cf6e05cf90240aa9daabd2342",
+      "sheet": "resources.assets-3068-Label",
+      "text": "准备战斗！",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Decline",
+      "source": "Decline",
+      "sourceHash": "a2d285b352873457207a34a015267524bb4613c3e8c961c8998da4e08e0d5745",
+      "sheet": "resources.assets-3068-Label",
+      "text": "拒绝",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Tutorial",
+      "source": "Tutorial",
+      "sourceHash": "c26982b1425da26a9637dd69da684a036c8b67a1ddf2c3d09b915a96e4b58037",
+      "sheet": "resources.assets-3068-Label",
+      "text": "教程",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Tutorial1",
+      "source": "1. Basics",
+      "sourceHash": "dad0b24e465c4b91d775144ee2ba8cbcd76c0298b5da70254b88b0fadb21c81c",
+      "sheet": "resources.assets-3068-Label",
+      "text": "1. 基础",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Tutorial2",
+      "source": "2. Fight",
+      "sourceHash": "229b4881d4667442af72391aa5e84dc6c822c98e2a4d2c6f4b5481b6076f0035",
+      "sheet": "resources.assets-3068-Label",
+      "text": "2. 战斗",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Tutorial3",
+      "source": "3. Store",
+      "sourceHash": "2153cd57ddbeb943c5c32d0bf86fd086f0107f8eb231abd3ee7644572016f72a",
+      "sheet": "resources.assets-3068-Label",
+      "text": "3. 商店",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Tutorial.Done",
+      "source": "Done",
+      "sourceHash": "11a6767d5674c7e45f7e00dc525762275b3a48491ad6045427d2609cc496c516",
+      "sheet": "resources.assets-3068-Label",
+      "text": "完成",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Tutorial.Reward",
+      "source": "Avatar reward",
+      "sourceHash": "1bd2fabfc22897786466f26e6168b8e8fcfd5fe52758cd41bd36c27c46fbf50c",
+      "sheet": "resources.assets-3068-Label",
+      "text": "头像奖励",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Tutorial.GuidedTour",
+      "source": "Guided tour",
+      "sourceHash": "06938153048d6d0081649439e4d4f36455a7033e444858186b9131716a546b46",
+      "sheet": "resources.assets-3068-Label",
+      "text": "引导教程",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Round",
+      "source": "Round",
+      "sourceHash": "cd9558acfc386bd3e1fb14da5d4ed7e9338f80fa29fc2447c36c94667c406295",
+      "sheet": "resources.assets-3068-Label",
+      "text": "轮次",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.TournamentCompleted",
+      "source": "Tournament finished!",
+      "sourceHash": "22813d1da5e7cfe34b87c06ebaef4fdb042db54674f425b769b2ecfe52358e4b",
+      "sheet": "resources.assets-3068-Label",
+      "text": "锦标赛结束！",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Winner",
+      "source": "Winner",
+      "sourceHash": "105dc74a45e3688b4bcc374d001c6166d063ea77117c8daf7199893cd02b297e",
+      "sheet": "resources.assets-3068-Label",
+      "text": "胜者",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Finale",
+      "source": "Final",
+      "sourceHash": "f4ed8fa656b74c5ddf5a54eca0f9aa9629d6c192225a85a5a0abb1a607285523",
+      "sheet": "resources.assets-3068-Label",
+      "text": "决赛",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.SemiFinals",
+      "source": "Semifinals",
+      "sourceHash": "2af1c6ecf53d086f26053d65039ff9ee28ce1f296c0fadaa163093e5c97f5640",
+      "sheet": "resources.assets-3068-Label",
+      "text": "半决赛",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Ready",
+      "source": "Ready",
+      "sourceHash": "5fa7aac5375c5815787fba3f49559f9b45b14023147ce0652803387974144e5f",
+      "sheet": "resources.assets-3068-Label",
+      "text": "准备就绪",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.WinnersBracket",
+      "source": "Winners bracket",
+      "sourceHash": "0839fad9aade503c5aa73dd648a120de84feaa53004f6d258675837eb5d211a0",
+      "sheet": "resources.assets-3068-Label",
+      "text": "胜者组",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.GrandFinal",
+      "source": "Grand final",
+      "sourceHash": "a54974718b6d77fb0c01bcafeeda9841c2af043065d0ebfcd12ba6cb337dcdcd",
+      "sheet": "resources.assets-3068-Label",
+      "text": "总决赛",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.LosersBracket",
+      "source": "Losers bracket",
+      "sourceHash": "1ddb542a4cb29417f635fa7772a90a74545b92d4b4bbb93fff95593ff293c4a8",
+      "sheet": "resources.assets-3068-Label",
+      "text": "败者组",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Game.MetamorphPanelSubTitle",
+      "source": "Choose your new card",
+      "sourceHash": "5dd575cf93e44909ced00446e1b7e3e708302bf084b1a022f113b9ab3137243c",
+      "sheet": "resources.assets-3068-Label",
+      "text": "选择新卡牌",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.ContinueTutorial",
+      "source": "Next tutorial",
+      "sourceHash": "b0a99aab8dd93a1859d3057882bf802871d8ac44b2e2e43da9baa2d49ffaca3c",
+      "sheet": "resources.assets-3068-Label",
+      "text": "下一节教程",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.FinishTutorial",
+      "source": "Return",
+      "sourceHash": "6b0143d03864993fdf6922b8be1c69b93b24babb9989edd7533f9eeb680148e0",
+      "sheet": "resources.assets-3068-Label",
+      "text": "返回",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.PlayFirst",
+      "source": "Plays first",
+      "sourceHash": "ad33e30e3fc23bedf32ed015dae6c17ee4bb8e0afedee0e29d82e220f194ece4",
+      "sheet": "resources.assets-3068-Label",
+      "text": "先手",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.PlaySecond",
+      "source": "Plays second",
+      "sourceHash": "e41571774055f049157a423f2754f5a246972d54c6bd82dac2e5b3f9dde49376",
+      "sheet": "resources.assets-3068-Label",
+      "text": "后手",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Game.PlayerOne",
+      "source": "Player 1",
+      "sourceHash": "27a99f01e114bf92a249aa3e2a3eb78731e143ca79f5f9ff38f1746f14f241f9",
+      "sheet": "resources.assets-3068-Label",
+      "text": "玩家 1",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Game.FirstPlayerDraw",
+      "source": "First player draw",
+      "sourceHash": "fd8197139560ee3fdaa9d838ae38d336d3051ac2733d6b8838ec0c39115caacc",
+      "sheet": "resources.assets-3068-Label",
+      "text": "先手抽取",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Game.EarnsSpamtons",
+      "source": "Earns {0} spamtons",
+      "sourceHash": "f0f3888ca2f2f557911f736f206223bf0795eda017e5635acdac8366cc93528b",
+      "sheet": "resources.assets-3068-Label",
+      "text": "获得 {0} Spamton",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Notifications",
+      "source": "Notifications",
+      "sourceHash": "788011833a5a0f22db90c91e8eb7bd8e9f5cd423354ff5ef8c338e7895f44ba9",
+      "sheet": "resources.assets-3068-Label",
+      "text": "通知",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.ThirdPlace",
+      "source": "Third place",
+      "sourceHash": "75b3caa66ef8ee54a86a9f85d5c955146b5f19cd70e6f7f030890cf60abeb630",
+      "sheet": "resources.assets-3068-Label",
+      "text": "季军赛",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.GiftQuantity",
+      "source": "Quantity",
+      "sourceHash": "822bab8d41bca8d7976cd69963d93a335ee21fa46160c4b866e0df7ea4b33196",
+      "sheet": "resources.assets-3068-Label",
+      "text": "数量",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.GiftStepFriend",
+      "source": "Friend",
+      "sourceHash": "acd8f66440162511efe9b24a2677bab20518f44d6f233b08e9387d9747601f18",
+      "sheet": "resources.assets-3068-Label",
+      "text": "好友",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.GiftStepType",
+      "source": "Type",
+      "sourceHash": "baaddf70fb5d432b8bd948ef91d6f910124a6d138edae4d5f000c4610ddc8eae",
+      "sheet": "resources.assets-3068-Label",
+      "text": "类型",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.GiftStepArticle",
+      "source": "Item",
+      "sourceHash": "652bcc3a478428893cc505ae19f847b49be52f861bedc64bb192ceed409fa733",
+      "sheet": "resources.assets-3068-Label",
+      "text": "物品",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.GiftStepSend",
+      "source": "Send",
+      "sourceHash": "f6f4688ff23d50c67053963c251fa0ce64a925cf283537cf066b1f362cb9b778",
+      "sheet": "resources.assets-3068-Label",
+      "text": "发送",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.GiftRecapTitle",
+      "source": "Summary",
+      "sourceHash": "8e76a94ac8320d515375e625bef1829238b097ecbd33611b59eeefd4ffefebfb",
+      "sheet": "resources.assets-3068-Label",
+      "text": "汇总",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.GiftRecipient",
+      "source": "Recipient",
+      "sourceHash": "51fac985e95345d90b3c8a69f5e60003cbbd47a06efdcf0270d76be85b408657",
+      "sheet": "resources.assets-3068-Label",
+      "text": "收件人",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.GiftRecapGift",
+      "source": "Gift",
+      "sourceHash": "1a596a091cc5094358959b5822212e1da981cfde00b89c95e0e5fdee07ef8dba",
+      "sheet": "resources.assets-3068-Label",
+      "text": "礼物",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.GiftTotal",
+      "source": "Total",
+      "sourceHash": "c9b3c38247f744e17dd26fda097d6a9ba9332586b6bdaa038bf8f313a863f2b8",
+      "sheet": "resources.assets-3068-Label",
+      "text": "总计",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.ArticleTotal",
+      "source": "Total",
+      "sourceHash": "c9b3c38247f744e17dd26fda097d6a9ba9332586b6bdaa038bf8f313a863f2b8",
+      "sheet": "resources.assets-3068-Label",
+      "text": "总计",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Owned",
+      "source": "Owned",
+      "sourceHash": "17b760c41cd2093315bba1008eaae9c4c05e3aa0fbbcf7477abfb775e62d6c5c",
+      "sheet": "resources.assets-3068-Label",
+      "text": "已拥有",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.SkinsOwned",
+      "source": "Owned",
+      "sourceHash": "17b760c41cd2093315bba1008eaae9c4c05e3aa0fbbcf7477abfb775e62d6c5c",
+      "sheet": "resources.assets-3068-Label",
+      "text": "已拥有",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.AlternativeArt",
+      "source": "AA",
+      "sourceHash": "58bb119c35513a451d24dc20ef0e9031ec85b35bfc919d263e7e5d9868909cb5",
+      "sheet": "resources.assets-3068-Label",
+      "text": "异画",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.AnimatedAlternativeArt",
+      "source": "AAA",
+      "sourceHash": "cb1ad2119d8fafb69566510ee712661f9f14b83385006ef92aec47f523a38358",
+      "sheet": "resources.assets-3068-Label",
+      "text": "动态异画",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Exclusive",
+      "source": "Exclusive",
+      "sourceHash": "4883b7dfffb02e366fd8e3e6576b808a158fc81c647a616e605f981956bfff78",
+      "sheet": "resources.assets-3068-Label",
+      "text": "专属",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.GiftCode",
+      "source": "Gift Code",
+      "sourceHash": "3d13b655b6d402d86fbe3263d75ff7f3bcff4a9d72a43d82bfd905899a44041c",
+      "sheet": "resources.assets-3068-Label",
+      "text": "兑换码",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.GiftCodeRedeem",
+      "source": "Redeem",
+      "sourceHash": "f990ff1f79b607c2a832dde39056fed16685ef2396355d4ede1a30ae157038ab",
+      "sheet": "resources.assets-3068-Label",
+      "text": "兑换",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.GiftCodeOpenGifts",
+      "source": "Open my gifts",
+      "sourceHash": "9fe218b0b13971e0e7b23df7466a8c6656432709ea4746190fdf5ffb750615a0",
+      "sheet": "resources.assets-3068-Label",
+      "text": "查看我的礼物",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.OpenGift",
+      "source": "Open gift",
+      "sourceHash": "c97b81db1617e5595341cc8d36830a8aa7fc1057cf630a46afb0ec48a02f4d80",
+      "sheet": "resources.assets-3068-Label",
+      "text": "开启礼物",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.OfferGift",
+      "source": "Send a gift",
+      "sourceHash": "3d6455373b28b4d353a27a3d5819ed025a784e492dbccd4ec17e955154e4bbf4",
+      "sheet": "resources.assets-3068-Label",
+      "text": "赠送礼物",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.TournamentTitle",
+      "source": "TOURNAMENT",
+      "sourceHash": "3c6dbc3bc37e7e6472335e01fcc938468ac4597085625fe00656ecc394b71e1c",
+      "sheet": "resources.assets-3068-Label",
+      "text": "锦标赛",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.TournamentPreparationPhase",
+      "source": "Preparation phase",
+      "sourceHash": "1491879f0ce5d88852921615628e54c78f0209eaa76d81e98ca27c6876810377",
+      "sheet": "resources.assets-3068-Label",
+      "text": "准备阶段",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.TournamentChooseDeck",
+      "source": "Choose my deck",
+      "sourceHash": "581b531c269aad43b64036608ab8f1e4858a348c5ebae8aa9efdaa8e88b526fb",
+      "sheet": "resources.assets-3068-Label",
+      "text": "选择牌组",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.TournamentBackToBracket",
+      "source": "Back to tournament",
+      "sourceHash": "6171370b6f7131666a7272fc7f4ffdf39017490876b5a0f0d20375321d6daef6",
+      "sheet": "resources.assets-3068-Label",
+      "text": "返回锦标赛",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.TournamentReadyPrompt",
+      "source": "READY?",
+      "sourceHash": "c1b2d323292f38c2dda8369bf5dee5fb2ec310f17d1cca8b7e538e1d25ece175",
+      "sheet": "resources.assets-3068-Label",
+      "text": "准备好了吗？",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.TournamentReadyBadge",
+      "source": "READY",
+      "sourceHash": "c2e3ac47f4a325469c1a2d5f117e463ec943c721986d5d9f09ac4540b7d80526",
+      "sheet": "resources.assets-3068-Label",
+      "text": "准备就绪",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.TournamentWaitingBadge",
+      "source": "WAITING",
+      "sourceHash": "77aaf105c28c4c82ea7b2e0627b92fdff753c249771e7d2ab4a6f7ec6a5f400f",
+      "sheet": "resources.assets-3068-Label",
+      "text": "等待中",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.TournamentInProgressBadge",
+      "source": "LIVE",
+      "sourceHash": "35e0d0360a0af6d115f9df30e1b00b5b544ebf4bb93272aa02cd5d64b064a64b",
+      "sheet": "resources.assets-3068-Label",
+      "text": "进行中",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.TournamentSlotTBD",
+      "source": "TBD",
+      "sourceHash": "03626549a59abf648ee59163b3b8acbf66c36513cb1e76d6e277bc044c926e30",
+      "sheet": "resources.assets-3068-Label",
+      "text": "待定",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.TournamentSlotWaiting",
+      "source": "Waiting...",
+      "sourceHash": "8a5aef4e3a0be2ce48253f81f7c8cd3e39fa0ffd34e46cccae9b2f55135b5f89",
+      "sheet": "resources.assets-3068-Label",
+      "text": "等待中…",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.TournamentLobbyTitle",
+      "source": "Tournament lobby",
+      "sourceHash": "108091bcbf1ec1d921fcdba52f2267108f73d5269fc4f99c19572e53ce9c80a9",
+      "sheet": "resources.assets-3068-Label",
+      "text": "锦标赛房间",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Eliminated",
+      "source": "Eliminated",
+      "sourceHash": "153d38d357d6543f14bd94d46dde9e7a7cbd9710f6fbca12cced40cea62af07a",
+      "sheet": "resources.assets-3068-Label",
+      "text": "已淘汰",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.TournamentWaitingHost",
+      "source": "Waiting for the host...",
+      "sourceHash": "330956bd136b4894a0fa8014d91be1355ac2c57c55dee5066e8aa0655512f135",
+      "sheet": "resources.assets-3068-Label",
+      "text": "正在等待房主…",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.TournamentEnterCode",
+      "source": "Enter code...",
+      "sourceHash": "f29ed92d2331e12a7a86121a8ba2ab34f2a9a63fff7812d229d5563617355862",
+      "sheet": "resources.assets-3068-Label",
+      "text": "输入房间码…",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.TournamentStart",
+      "source": "Start",
+      "sourceHash": "e4bb9f1ece9af9264a3b9e3913bbdb2cf497457167b14ced5f85688bfde74644",
+      "sheet": "resources.assets-3068-Label",
+      "text": "开始",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.TournamentRecapPlayers",
+      "source": "Players",
+      "sourceHash": "84e12ac655dd8d75dd440c2895926813e0a4420e136dc6e0708e365c0d09cb3a",
+      "sheet": "resources.assets-3068-Label",
+      "text": "玩家",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.TournamentRecapDeck",
+      "source": "Deck",
+      "sourceHash": "889eacd6e13fa54ad688494093074c0e24e922a5dde1a112bcb851f9c6664a6f",
+      "sheet": "resources.assets-3068-Label",
+      "text": "牌组",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.TournamentRecapSeeding",
+      "source": "Seeding",
+      "sourceHash": "34c15fc4a4ac1fe2a5cdaaf65e0a6db2cd321a75b5dddbf873a482ae95762861",
+      "sheet": "resources.assets-3068-Label",
+      "text": "种子排序",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.TournamentRecapBracket",
+      "source": "Bracket",
+      "sourceHash": "f790334e80c3b6ca27894b37a3ae70588d184e7eae31d9ed0bae2dbcb6595e90",
+      "sheet": "resources.assets-3068-Label",
+      "text": "赛程",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.TournamentRecapFormat",
+      "source": "Format",
+      "sourceHash": "2f343666aaa88c44430b12e6ab8a29591a069de76541125e83ff1b5acc367bf2",
+      "sheet": "resources.assets-3068-Label",
+      "text": "赛制",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.TournamentDeckModeLocked",
+      "source": "Locked",
+      "sourceHash": "a424e33d90931d1ed22f2af37a3f3491a5c9de0dfae079f6f3ff4edf0309e07f",
+      "sheet": "resources.assets-3068-Label",
+      "text": "锁定",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.TournamentDeckModeDraft",
+      "source": "Draft",
+      "sourceHash": "ebf12ef47cf575b3ba9a3cc019c5310146fdac88f6d1be6618d6e91158c2f174",
+      "sheet": "resources.assets-3068-Label",
+      "text": "选秀",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.TournamentDeckModeFearless",
+      "source": "Fearless",
+      "sourceHash": "bf019a6dc0e6d585f53a0a5a4c0ce03ef1c4988b6ec98b1308e795c6664efb5d",
+      "sheet": "resources.assets-3068-Label",
+      "text": "无畏",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.TournamentSeedingRandom",
+      "source": "Random",
+      "sourceHash": "67bc484430fe87babe3c35d2ba4827d029f1c7e415a92de44885a9c88536661f",
+      "sheet": "resources.assets-3068-Label",
+      "text": "随机",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.TournamentSeedingSeeded",
+      "source": "Seeded (rank)",
+      "sourceHash": "7d7824143ed00d1052036739f1f0deadb9aa3484a8776cde1ba3bc4c2f1b23fc",
+      "sheet": "resources.assets-3068-Label",
+      "text": "按段位排序",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.TournamentBracketSingle",
+      "source": "Single elimination",
+      "sourceHash": "9a5564af6077c71037a66615d289099ad6e0e84cbbcda95e52d365e0542ea1d7",
+      "sheet": "resources.assets-3068-Label",
+      "text": "单败淘汰",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.TournamentBracketDouble",
+      "source": "Double elimination",
+      "sourceHash": "6752d41b4ec052bcf0d0dfd07b3ae7c11ebb0d6aadb3248183bb7d89c43032ec",
+      "sheet": "resources.assets-3068-Label",
+      "text": "双败淘汰",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.TournamentFormatBo1",
+      "source": "BO1",
+      "sourceHash": "f0a3f5681454c856d7399d13c5be2a767f5a0ba184ce7a6597eae1ac71a13739",
+      "sheet": "resources.assets-3068-Label",
+      "text": "BO1",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.TournamentFormatBo3",
+      "source": "BO3",
+      "sourceHash": "267d2fd074c31a7f35e3aaef615b414712d4d23b310bb70971f14cba7c301ee7",
+      "sheet": "resources.assets-3068-Label",
+      "text": "BO3",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.TournamentAcceptMatch",
+      "source": "Accept the match",
+      "sourceHash": "e71046e0730a1ea9d4f9461241ae2cbf44f74d0d535486e3455f4a6a10a6c4f0",
+      "sheet": "resources.assets-3068-Label",
+      "text": "接受对战",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.QuarterFinals",
+      "source": "Quarterfinals",
+      "sourceHash": "28817beadb9d3ec91c85a0bf58bf34103df0db1f4e6a2b1f1d5914ad21b31267",
+      "sheet": "resources.assets-3068-Label",
+      "text": "四分之一决赛",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.TournamentSpectators",
+      "source": "Spectators",
+      "sourceHash": "8ae8f36b20e679e437e47001c79f991904dc5eb41f8e915a5bdd2d22975c07a3",
+      "sheet": "resources.assets-3068-Label",
+      "text": "观众",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.TournamentCreate",
+      "source": "Create tournament",
+      "sourceHash": "655d8a8afde395f05d8e39172fc0ef58d9880d1ac1d78279767c63ec91b14b97",
+      "sheet": "resources.assets-3068-Label",
+      "text": "创建锦标赛",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.TournamentBracketSingleShort",
+      "source": "Single elim",
+      "sourceHash": "936eebfa96e380ce76e1e21362f01f95e23e0f57d708d1f6db4b92654669f729",
+      "sheet": "resources.assets-3068-Label",
+      "text": "单败淘汰",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.TournamentBracketDoubleShort",
+      "source": "Double elim",
+      "sourceHash": "444044a99463988d80834429b09db794377fa89d163dabb9acbdd2ebbbe9e092",
+      "sheet": "resources.assets-3068-Label",
+      "text": "双败淘汰",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.TournamentSeedingSeededShort",
+      "source": "By rank",
+      "sourceHash": "f150915d05ff02acad39ab4e69eb973982dd8e12cce6eb75af3020051cc8ef01",
+      "sheet": "resources.assets-3068-Label",
+      "text": "按段位",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.TournamentAbandon",
+      "source": "Forfeit",
+      "sourceHash": "33d9fa026b03ea8e56a80e519ac9a9c15ef87cc4306db4fe00501083d7e7c0b0",
+      "sheet": "resources.assets-3068-Label",
+      "text": "弃权",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.TournamentConfirm",
+      "source": "Confirm?",
+      "sourceHash": "5bf69a507464cfcf923e21dfc5339edeb1d9e283c8df0d2e93c7372bdf896805",
+      "sheet": "resources.assets-3068-Label",
+      "text": "确认？",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.ProfileTabPalmares",
+      "source": "Records",
+      "sourceHash": "47a84e92d5b225ee185aff8a30bafb3240a41b84c740bcaeac43772dd7f2fd37",
+      "sheet": "resources.assets-3068-Label",
+      "text": "战绩",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.ProfileShowcase",
+      "source": "Trophy case",
+      "sourceHash": "b9f68c6ddb8ab6de2b7f7778ef878601b9f54d0d60ddbda19101f757f5f12cb9",
+      "sheet": "resources.assets-3068-Label",
+      "text": "奖杯展示",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.ProfileRecentTournaments",
+      "source": "Recent tournaments",
+      "sourceHash": "d8ee9a454341a71cb3a464d2d79bfac3d719ddb82c6c024fffdac4faeb10a372",
+      "sheet": "resources.assets-3068-Label",
+      "text": "近期锦标赛",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.ProfileTileTournament",
+      "source": "Tournament",
+      "sourceHash": "ffb1b8a185d87f6d7b5f89ec44ba8f902c8701bd5563ab0de261f06382d3afcf",
+      "sheet": "resources.assets-3068-Label",
+      "text": "锦标赛",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.TournamentRematch",
+      "source": "Rematch",
+      "sourceHash": "a972619313f31faf4823a014b7e3de0a5995e3ddfb2a35d8167df942371fc260",
+      "sheet": "resources.assets-3068-Label",
+      "text": "再战",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.TournamentTabFinal",
+      "source": "Final",
+      "sourceHash": "f4ed8fa656b74c5ddf5a54eca0f9aa9629d6c192225a85a5a0abb1a607285523",
+      "sheet": "resources.assets-3068-Label",
+      "text": "决赛",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.TournamentStatusHost",
+      "source": "Host",
+      "sourceHash": "4a823118b9ba8baa2f47489c0716f52755368e3e3c2c26d60736ccfa1bb21b5e",
+      "sheet": "resources.assets-3068-Label",
+      "text": "房主",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.TournamentStatusReconnecting",
+      "source": "Reconnecting…",
+      "sourceHash": "27b80374e1151af6df7824a358606c77502548bff4d467e4ae2e146801f601ce",
+      "sheet": "resources.assets-3068-Label",
+      "text": "正在重连…",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.TournamentStatusSpectator",
+      "source": "Spectator",
+      "sourceHash": "5ccda7f08fd1a2d1ad1d2d2a06c1954b850f1ecfdfb1f44a3812595e8f4f1814",
+      "sheet": "resources.assets-3068-Label",
+      "text": "观众",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.TournamentCopyCode",
+      "source": "Copy",
+      "sourceHash": "e21f935f11d7e966dbbae78da9daa378fe8142a14e7c0cd7434183005faa6c5c",
+      "sheet": "resources.assets-3068-Label",
+      "text": "复制",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.TournamentStepFormat",
+      "source": "Format",
+      "sourceHash": "2f343666aaa88c44430b12e6ab8a29591a069de76541125e83ff1b5acc367bf2",
+      "sheet": "resources.assets-3068-Label",
+      "text": "赛制",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.TournamentStepRules",
+      "source": "Rules",
+      "sourceHash": "4228aeb07c410ffc9d15b458bf7c2bf8d9dfa7af632f2c339e69f8cb54654da3",
+      "sheet": "resources.assets-3068-Label",
+      "text": "规则",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.TournamentStepLobby",
+      "source": "Lobby",
+      "sourceHash": "4c97a9ef95cd02d26427e935a3ce8c6f22bc7effe65dd2ed4345691ee386dcea",
+      "sheet": "resources.assets-3068-Label",
+      "text": "房间",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.TournamentBracketHeader",
+      "source": "Bracket",
+      "sourceHash": "f790334e80c3b6ca27894b37a3ae70588d184e7eae31d9ed0bae2dbcb6595e90",
+      "sheet": "resources.assets-3068-Label",
+      "text": "赛程",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.TournamentStepBack",
+      "source": "Back",
+      "sourceHash": "76900f1bfd16c8d4dd3d25e6f46638d7165aee23883ccea6bfe071c514421769",
+      "sheet": "resources.assets-3068-Label",
+      "text": "返回",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.TournamentCreateTournament",
+      "source": "Create tournament",
+      "sourceHash": "655d8a8afde395f05d8e39172fc0ef58d9880d1ac1d78279767c63ec91b14b97",
+      "sheet": "resources.assets-3068-Label",
+      "text": "创建锦标赛",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.TournamentPreviewTitle",
+      "source": "Preview",
+      "sourceHash": "324b134f57c70c729ae3dc4d298bb451656717d70523e942c1ce667b8024ea07",
+      "sheet": "resources.assets-3068-Label",
+      "text": "预览",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.TournamentInviteSlot",
+      "source": "Invite",
+      "sourceHash": "1fd9ae1607aa3d804ef494984ed57aa79b6d3553962c76f6c8f5fa0a4dde04b7",
+      "sheet": "resources.assets-3068-Label",
+      "text": "邀请",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.TournamentLaunchTitle",
+      "source": "Tournament start",
+      "sourceHash": "657f132d3b94604a3a36487e6de30e8a1849357905aaba64f3a9068b7016b0e5",
+      "sheet": "resources.assets-3068-Label",
+      "text": "锦标赛开始",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.TournamentMatchReadyTitle",
+      "source": "Match ready!",
+      "sourceHash": "e9eda726a72be937ea8c3a9b866cbe5e6655a38cbe40f18a8976da66e0379070",
+      "sheet": "resources.assets-3068-Label",
+      "text": "对战已就绪！",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.TournamentBanned",
+      "source": "BANNED",
+      "sourceHash": "79764c0fc999ee99b2f034b04a7c1375f8b719212f725ffe8c9d402bd9c7d32c",
+      "sheet": "resources.assets-3068-Label",
+      "text": "已禁用",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.DeckCount",
+      "source": "{0}/{1} decks",
+      "sourceHash": "a3ecaf1c792b6ba7185265f499fd53fef2e9cb6ac2ad2d09ebbe429ea698f7ab",
+      "sheet": "resources.assets-3068-Label",
+      "text": "{0}/{1} 个牌组",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.DeckLocked",
+      "source": "Locked",
+      "sourceHash": "a424e33d90931d1ed22f2af37a3f3491a5c9de0dfae079f6f3ff4edf0309e07f",
+      "sheet": "resources.assets-3068-Label",
+      "text": "锁定",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.DecksWithCount",
+      "source": "Decks ({0}/{1})",
+      "sourceHash": "57369bffade5c440d8f54390bf6ff9ea19b2fb681e484cc83a142da47ec271ed",
+      "sheet": "resources.assets-3068-Label",
+      "text": "牌组（{0}/{1}）",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.PremiumPass.Active",
+      "source": "Premium Pass active",
+      "sourceHash": "7356ca4c00944d0d5a9c33e18dd6fb6d0083e5d7956ee19bcbd0fee934b684bb",
+      "sheet": "resources.assets-3068-Label",
+      "text": "高级通行证已生效",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.PremiumPass.Inactive",
+      "source": "Premium Pass inactive",
+      "sourceHash": "b53a15713edad8fcc6d0442b4a7642612075f9fdfa5f1a48027638cb6d5d3c79",
+      "sheet": "resources.assets-3068-Label",
+      "text": "高级通行证未生效",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.PremiumPass.NoExpiry",
+      "source": "No end date",
+      "sourceHash": "6c43e8399a11d714964b0154d968ebd95624ae93ad40ae7fae30d80bfd758423",
+      "sheet": "resources.assets-3068-Label",
+      "text": "无到期日期",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.PremiumPass.Window.Missions.Title",
+      "source": "Missions",
+      "sourceHash": "93ffb8ce98c75447c13e7fb1f2028e7edb262f14d62531fd3315a2cf4adb3e7f",
+      "sheet": "resources.assets-3068-Label",
+      "text": "任务",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.PremiumPass.Window.Missions.Available.Title",
+      "source": "Rewards available",
+      "sourceHash": "63e7fbd7a8dd938ce11d3e4677f82367b057c2b410cbb7b080f7dfb977ec000e",
+      "sheet": "resources.assets-3068-Label",
+      "text": "可领取奖励",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.PremiumPass.Window.Missions.ToComplete.Title",
+      "source": "Missions to complete",
+      "sourceHash": "40e5fb4977a5df9eea470064a7493c36e03a2cd3c2a0ab9fc4a373baf8b1ead0",
+      "sheet": "resources.assets-3068-Label",
+      "text": "待完成任务",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.PremiumPass.Window.Missions.Active.Title",
+      "source": "Pass active",
+      "sourceHash": "498dd3083264f6d0d20a4710365f9166886c10f39130bf34664739b73fbeb013",
+      "sheet": "resources.assets-3068-Label",
+      "text": "通行证已生效",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Notification.PremiumShopCta",
+      "source": "Shop",
+      "sourceHash": "d00aae6b7fbf77a4566d8df36805d7ae973894da9f533ec96516b31e028b71eb",
+      "sheet": "resources.assets-3068-Label",
+      "text": "商店",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Others",
+      "source": "Others",
+      "sourceHash": "ebdad9ba4c5e3ce0078ad8e8fb31e4c76176834cd2370f05bd043e4baf8d6c5a",
+      "sheet": "resources.assets-3068-Label",
+      "text": "其他",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Settings.tox",
+      "source": "Tox",
+      "sourceHash": "e56588466b077101b3ad8c97044381231c7905f7edca64fee77b68df46f9c029",
+      "sheet": "resources.assets-3068-Label",
+      "text": "Tox",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Gamepad.Action.Select",
+      "source": "Select",
+      "sourceHash": "2a78025de6aae5e7ff88e5a951bb3a78ddd67388913529cf9e2dd9653e62b02d",
+      "sheet": "resources.assets-3068-Label",
+      "text": "选择",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Settings.gamepadGlyphs.xbox",
+      "source": "Xbox",
+      "sourceHash": "449b321e81007dfc8fe13cca852d2252d96ec4a022187f4e1178cf974774e010",
+      "sheet": "resources.assets-3068-Label",
+      "text": "Xbox",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Settings.gamepadGlyphs.playstation",
+      "source": "PlayStation",
+      "sourceHash": "55030fed1a3bdc57105c42a322f42a0fb1b87973043d128fcc2ee28454547d68",
+      "sheet": "resources.assets-3068-Label",
+      "text": "PlayStation",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Settings.title",
+      "source": "Settings",
+      "sourceHash": "74a883a037bc227f91891ab654a753d3a99f31ab06ae5b5d2b6e594a692b41f8",
+      "sheet": "resources.assets-3068-Label",
+      "text": "设置",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Settings.pauseTitle",
+      "source": "Pause",
+      "sourceHash": "858e4ba7a29fd38b630ed73a79e2738333b3fc6778fafa90252f5556c1262fdc",
+      "sheet": "resources.assets-3068-Label",
+      "text": "暂停",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Settings.preview",
+      "source": "Preview",
+      "sourceHash": "324b134f57c70c729ae3dc4d298bb451656717d70523e942c1ce667b8024ea07",
+      "sheet": "resources.assets-3068-Label",
+      "text": "预览",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Settings.hint.select",
+      "source": "Select",
+      "sourceHash": "2a78025de6aae5e7ff88e5a951bb3a78ddd67388913529cf9e2dd9653e62b02d",
+      "sheet": "resources.assets-3068-Label",
+      "text": "选择",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Settings.hint.back",
+      "source": "Back",
+      "sourceHash": "76900f1bfd16c8d4dd3d25e6f46638d7165aee23883ccea6bfe071c514421769",
+      "sheet": "resources.assets-3068-Label",
+      "text": "返回",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Settings.ring.effects",
+      "source": "Effects",
+      "sourceHash": "358511c8c09805c9c10b1ba11157ed0c08ced8599d59e27e16fa226bdc32d63e",
+      "sheet": "resources.assets-3068-Label",
+      "text": "效果",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Settings.link.discord.title",
+      "source": "Discord",
+      "sourceHash": "053bc65874ad6098e58c41c57b378a2f36b0220e5e0b46722245e6c2f796818c",
+      "sheet": "resources.assets-3068-Label",
+      "text": "Discord",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Home.XpValue",
+      "source": "{0} / {1} XP",
+      "sourceHash": "afc4d1b7bbfd7136f80d2a6ace9a6d2150ba34d48e866707f582774c5e30c11f",
+      "sheet": "resources.assets-3068-Label",
+      "text": "{0} / {1} 经验",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Home.WinRateValue",
+      "source": "{0}%",
+      "sourceHash": "6c04e61698da54fccef7126481d0c9b207a9332d79cdced5ed99a639530ca1a2",
+      "sheet": "resources.assets-3068-Label",
+      "text": "{0}%",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Home.WinRate",
+      "source": "win rate",
+      "sourceHash": "dd54e8f0763ddb2c049f36d38b402ba26ac3fb39fef1d6f2a5836679d9524cc4",
+      "sheet": "resources.assets-3068-Label",
+      "text": "胜率",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Home.Points",
+      "source": "{0} pts",
+      "sourceHash": "7640997f3653d0f30e45a5622c44b640dd07dc768c52bb68ba1bb8e7f131655f",
+      "sheet": "resources.assets-3068-Label",
+      "text": "{0} 分",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Home.MissionsCompleted",
+      "source": "Completed",
+      "sourceHash": "22a970d2e5b1cc233e462be7c7b64e135a275bb09d83d87683bf4236c43113a1",
+      "sheet": "resources.assets-3068-Label",
+      "text": "已完成",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Home.MissionsClaimed",
+      "source": "Claimed",
+      "sourceHash": "ddcd2779294a61f056090b2bbc47444816ff791ed0cf9ec295821e82a384ef81",
+      "sheet": "resources.assets-3068-Label",
+      "text": "已领取",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Home.MissionsDaily",
+      "source": "Daily",
+      "sourceHash": "b36c2611dcdfa190ede846948d9aba8f39581de0177cbd98586506019f979b75",
+      "sheet": "resources.assets-3068-Label",
+      "text": "每日",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Home.MissionsWeekly",
+      "source": "Weekly",
+      "sourceHash": "2975132481a7a6957cfa95055d04e706f21f1a613f448d0a17463f2eacca4636",
+      "sheet": "resources.assets-3068-Label",
+      "text": "每周",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Home.MissionsMonthly",
+      "source": "Monthly",
+      "sourceHash": "9b11f6b707d2a03e0265465f32520bc1bc213de121de958539662d0ec1453fcb",
+      "sheet": "resources.assets-3068-Label",
+      "text": "每月",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.Home.New",
+      "source": "New",
+      "sourceHash": "18fdd549b2ed367ac0c74cbec1214644728515b30edbcb78e7d322757a7c8359",
+      "sheet": "resources.assets-3068-Label",
+      "text": "新增",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.SaturdayDeckDraft",
+      "source": "Draft",
+      "sourceHash": "ebf12ef47cf575b3ba9a3cc019c5310146fdac88f6d1be6618d6e91158c2f174",
+      "sheet": "resources.assets-3068-Label",
+      "text": "选秀",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.SaturdayDeckFearless",
+      "source": "Fearless",
+      "sourceHash": "bf019a6dc0e6d585f53a0a5a4c0ce03ef1c4988b6ec98b1308e795c6664efb5d",
+      "sheet": "resources.assets-3068-Label",
+      "text": "无畏",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.SaturdayFormatBo1",
+      "source": "BO1",
+      "sourceHash": "f0a3f5681454c856d7399d13c5be2a767f5a0ba184ce7a6597eae1ac71a13739",
+      "sheet": "resources.assets-3068-Label",
+      "text": "BO1",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.SaturdayFormatBo3",
+      "source": "BO3",
+      "sourceHash": "267d2fd074c31a7f35e3aaef615b414712d4d23b310bb70971f14cba7c301ee7",
+      "sheet": "resources.assets-3068-Label",
+      "text": "BO3",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.SaturdayCountdownHours",
+      "source": "{0} H {1} MIN",
+      "sourceHash": "fc52e49d872d93e351708e29bb46ac1e0d55cdbb79d0f0d8345269227ea55f7c",
+      "sheet": "resources.assets-3068-Label",
+      "text": "{0} 小时 {1} 分钟",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.SaturdayCountdownDays",
+      "source": "{0} D {1} H {2} MIN",
+      "sourceHash": "b0bb048374df6b3548ff6f0ef2bc4d5ef8eab805107e81c40f3c9b98e1b031ba",
+      "sheet": "resources.assets-3068-Label",
+      "text": "{0} 天 {1} 小时 {2} 分钟",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.FriendsTitle",
+      "source": "Friends",
+      "sourceHash": "bd104d1b98d032274986497eeb7997c44a1d674b29140e43cd525d33468ecb6e",
+      "sheet": "resources.assets-3068-Label",
+      "text": "好友",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Label.PatchNotes.New",
+      "source": "New",
+      "sourceHash": "18fdd549b2ed367ac0c74cbec1214644728515b30edbcb78e7d322757a7c8359",
+      "sheet": "resources.assets-3068-Label",
+      "text": "新增",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Card.Name.esprit_eau",
+      "source": "Water Spirit",
+      "sourceHash": "e8816ce24586231df2535b9bd6a16fd33a179263d9745c8c24cc9f095564021f",
+      "sheet": "resources.assets-3069-Card_Name",
+      "text": "水精灵",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Card.Name.esprit_feu",
+      "source": "Fire Spirit",
+      "sourceHash": "9a00e005300ba76fc5c09d4fa09913ba8b2e25a816a05f11064817286205dc6c",
+      "sheet": "resources.assets-3069-Card_Name",
+      "text": "火精灵",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Card.Name.esprit_lumiere",
+      "source": "Light Spirit",
+      "sourceHash": "0cc96e027536a3909ca5f7357ecfe1512c5b0db9396130a2f25f506694269e3e",
+      "sheet": "resources.assets-3069-Card_Name",
+      "text": "光精灵",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Card.Name.esprit_nature",
+      "source": "Nature Spirit",
+      "sourceHash": "6a1a6f6cf63dc12623a432851efd13bf79a4fe85743f6bfc0e5b4a713b019ac8",
+      "sheet": "resources.assets-3069-Card_Name",
+      "text": "自然精灵",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Card.Name.esprit_ombre",
+      "source": "Shadow Spirit",
+      "sourceHash": "eb870c9baf4156e9c0d3acec5ce98184e7451b637aba09d0032f50561bd28cda",
+      "sheet": "resources.assets-3069-Card_Name",
+      "text": "暗影精灵",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Card.Name.esprit_terre",
+      "source": "Earth Spirit",
+      "sourceHash": "f723b8e95eb6ee321e710aa6d0f72a5a98dc6cf449dda88072ebf913ff3410d1",
+      "sheet": "resources.assets-3069-Card_Name",
+      "text": "土精灵",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Orb.History.Talents",
+      "source": "Talents",
+      "sourceHash": "e8871b70ebfa07d9a877d3f7fa78f7e4b1607d507811d03c1e375f8aa499de1f",
+      "sheet": "resources.assets-3071-Orb",
+      "text": "天赋",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Game.UI.Turn",
+      "source": "Turn",
+      "sourceHash": "b823d5f9d1ce690c00935e097200405bcf903b6bbd61e4866c3c1fda7fb3238c",
+      "sheet": "resources.assets-3072-Game",
+      "text": "回合",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Game.UI.EndTurn",
+      "source": "End turn",
+      "sourceHash": "dacb1c83f36c986b5cb7c3c38c91038914d530bab866c87c94b4c72de158e9e1",
+      "sheet": "resources.assets-3072-Game",
+      "text": "结束回合",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Game.UI.Victory",
+      "source": "VICTORY",
+      "sourceHash": "29cc6f0a0f6a132e446a0b311a4650d0883d0d6881db7eb47d07b47e325bafd5",
+      "sheet": "resources.assets-3072-Game",
+      "text": "胜利",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Game.UI.Defeat",
+      "source": "DEFEAT",
+      "sourceHash": "054dda0f8dd7ba69b2b0f44f5e2563f9a117723968e4b7960b2bafa1a7b8e664",
+      "sheet": "resources.assets-3072-Game",
+      "text": "失败",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Game.UI.Tie",
+      "source": "DRAW",
+      "sourceHash": "3017385a0abf92e7b4a50dd10011d4a20372d401390e3004313f2b02c5d7f910",
+      "sheet": "resources.assets-3072-Game",
+      "text": "平局",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Game.Chat.Write",
+      "source": "Chat",
+      "sourceHash": "460b3a7da007b7af9d35bca54181dc91382263b2bf133ca214871ca1fed1fc1c",
+      "sheet": "resources.assets-3072-Game",
+      "text": "聊天",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Game.UI.Or",
+      "source": "---------- or ----------",
+      "sourceHash": "40f35936908eb70b6f2f57bfb10331eba53548f039652b4ed969b8dacdfa6a67",
+      "sheet": "resources.assets-3072-Game",
+      "text": "或",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Game.UI.Artist",
+      "source": "Artist",
+      "sourceHash": "1d3981ba1e1892a87546666766b83d6a10a6341db303863a19fd63c2e90598e1",
+      "sheet": "resources.assets-3072-Game",
+      "text": "画师",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Game.UI.YourTurn",
+      "source": "Your turn",
+      "sourceHash": "f2d1457382e5d95b7dce2e9f348cec539c38b08428e6ebd659a62e694cb4096f",
+      "sheet": "resources.assets-3072-Game",
+      "text": "你的回合",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Game.UI.Handheld.Ready",
+      "source": "Ready",
+      "sourceHash": "5fa7aac5375c5815787fba3f49559f9b45b14023147ce0652803387974144e5f",
+      "sheet": "resources.assets-3072-Game",
+      "text": "准备就绪",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Game.Result.Victory",
+      "source": "Victory",
+      "sourceHash": "2e9b5a0c4e6aeb0891cc2c8e346bf9d556bd5590327441bfda28fdf36ff4db43",
+      "sheet": "resources.assets-3072-Game",
+      "text": "胜利",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Game.Result.Defeat",
+      "source": "Defeat",
+      "sourceHash": "2be4cda83179a528092a54c89f500cfea91912205b857351efe420362bd6becb",
+      "sheet": "resources.assets-3072-Game",
+      "text": "失败",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Game.Result.Draw",
+      "source": "Draw",
+      "sourceHash": "61517c08b3bf84b42ac5a38367a9ca07dbc54e9c00ee92df09debe4f38df34d4",
+      "sheet": "resources.assets-3072-Game",
+      "text": "平局",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Game.Element.earth",
+      "source": "Earth",
+      "sourceHash": "b7c9b5ccd3e3ec741ecfa5864b577f5dab1d987bfd3caa4815f1b3f8354a5f16",
+      "sheet": "resources.assets-3072-Game",
+      "text": "土",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Game.Element.fire",
+      "source": "Fire",
+      "sourceHash": "c141faa80e43a11909f5736d1e767f12e1468aa06dadd446081746934e875fc3",
+      "sheet": "resources.assets-3072-Game",
+      "text": "火",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Game.Element.light",
+      "source": "Light",
+      "sourceHash": "dbcd5e7bb7a0f538810de44c3efbd813037ee3fa358747bb71fa58e157af45f7",
+      "sheet": "resources.assets-3072-Game",
+      "text": "光",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Game.Element.nature",
+      "source": "Nature",
+      "sourceHash": "c71ce8ccf3b4493267a168d7315294085b489fb8ccbf15b4cc2639cacd5c81a4",
+      "sheet": "resources.assets-3072-Game",
+      "text": "自然",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Game.Element.shadow",
+      "source": "Shadow",
+      "sourceHash": "4c764cb6248ef9337fc1c8769d4b74fc1d4c1fff6a9e8d00ca6753a560b3e74b",
+      "sheet": "resources.assets-3072-Game",
+      "text": "暗",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Game.Element.water",
+      "source": "Water",
+      "sourceHash": "7ca7dea906800f87091b819132ecf2aa2b7ea14c9841fa18b9db121d3bbe82dc",
+      "sheet": "resources.assets-3072-Game",
+      "text": "水",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Game.Rarity.common",
+      "source": "Common",
+      "sourceHash": "309955e00850b8afeb148450c7208585a85f8b652d5c625c777726f44837f69c",
+      "sheet": "resources.assets-3072-Game",
+      "text": "普通",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Game.Rarity.rare",
+      "source": "Rare",
+      "sourceHash": "291d2a97565f2e9c3316bc5251922883bf205e277124f408875d30ffd6a5d92f",
+      "sheet": "resources.assets-3072-Game",
+      "text": "稀有",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Game.Rarity.epic",
+      "source": "Epic",
+      "sourceHash": "a93d389804ee0490f1903ab26500a66a695ce65fa7ecb074d79771857d074355",
+      "sheet": "resources.assets-3072-Game",
+      "text": "史诗",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Game.Rarity.legendary",
+      "source": "Legendary",
+      "sourceHash": "c80b041f5d1d11574f40bd79c2ea8f64cfc47a49c6b8846abed3c294931a7946",
+      "sheet": "resources.assets-3072-Game",
+      "text": "传说",
+      "status": "verified",
+      "provider": "curated-source-review"
+    },
+    {
+      "key": "Game.Spectator.Tag",
+      "source": "Spectator",
+      "sourceHash": "5ccda7f08fd1a2d1ad1d2d2a06c1954b850f1ecfdfb1f44a3812595e8f4f1814",
+      "sheet": "resources.assets-3072-Game",
+      "text": "观众",
+      "status": "verified",
+      "provider": "curated-source-review"
+    }
+  ]
+}

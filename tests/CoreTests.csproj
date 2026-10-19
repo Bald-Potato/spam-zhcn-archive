@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup><OutputType>Exe</OutputType><TargetFramework>net10.0</TargetFramework><EnableDefaultCompileItems>false</EnableDefaultCompileItems></PropertyGroup>
+  <ItemGroup>
+    <Compile Include="CoreTests.cs"/>
+    <Compile Include="..\src\SpamChinese\TranslationStore.cs" Link="TranslationStore.cs"/>
+    <Compile Include="..\src\SpamChinese\Presentation.cs" Link="Presentation.cs"/>
+    <Compile Include="..\src\SpamChinese\NativeHookPlan.cs" Link="NativeHookPlan.cs"/>
+    <Compile Include="..\src\SpamChinese\MechanicsTemplates.cs" Link="MechanicsTemplates.cs"/>
+    <Reference Include="Mono.Cecil"><HintPath>..\vendor\bepinex\BepInEx\core\Mono.Cecil.dll</HintPath></Reference>
+    <Reference Include="Newtonsoft.Json"><HintPath>E:\SteamLibrary\steamapps\common\SPAM\SPAM_Data\Managed\Newtonsoft.Json.dll</HintPath></Reference>
+  </ItemGroup>
+</Project>

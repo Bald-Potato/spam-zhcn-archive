@@ -1,0 +1,34 @@
+# Decompiled game files and local analysis can contain proprietary game assets.
+/analysis-local/
+
+# Local BepInEx/game assemblies and downloaded tools; rebuild these from their
+# licensed upstream sources when preparing a development environment.
+/vendor/
+
+# Generated packages, binaries, logs, and runtime evidence. Keep only project docs.
+/artifacts/*
+!/artifacts/验证记录-0.2.md
+!/artifacts/字体预览-0.2.svg
+
+# Build/interpreter output and local translation cache/config.
+**/bin/
+**/obj/
+**/__pycache__/
+*.py[cod]
+*.user
+*.suo
+*.cache.json
+
+# Obsolete font experiments and stale metadata; the 0.2 fonts stay included.
+/data/fonts/Verified.ttf
+/data/fonts/Draft.ttf
+/data/fonts/notoserifsc-OFL.txt
+/data/fonts/sources.json
+
+# Common credential files.
+.env
+.env.*
+!.env.example
+*.pem
+*.p12
+*.key
